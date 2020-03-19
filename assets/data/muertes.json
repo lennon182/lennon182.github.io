@@ -16,4 +16,13 @@
     "status": "confirmado",
     "procedencia": "Italia",
     "llegadaMx": "22/02/2020"
+}, {
+    "nCaso": 1,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 35,
+    "inicioSintomas": "22/02/2020",
+    "status": "confirmado",
+    "procedencia": "Italia",
+    "llegadaMx": "22/02/2020"
 }]
