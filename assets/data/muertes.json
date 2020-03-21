@@ -3,13 +3,15 @@
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 41,
+    "padecimientos": "Diabetes",
     "fecha": "19/02/2020",
-    "status": "muerte",
+    "status": "muerte"
   },{
     "nCaso": 2,
     "estado": "DURANGO",
     "sexo": "M",
     "edad": 74,
+    "padecimientos": "Hipertensión arterial",
     "fecha": "19/02/2020",
-    "status": "muerte",
+    "status": "muerte"
   }]
