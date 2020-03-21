@@ -1,1 +1,15 @@
-[]
+[{
+    "nCaso": 1,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 41,
+    "fecha": "19/02/2020",
+    "status": "muerte",
+  },{
+    "nCaso": 2,
+    "estado": "DURANGO",
+    "sexo": "M",
+    "edad": 74,
+    "fecha": "19/02/2020",
+    "status": "muerte",
+  }]
