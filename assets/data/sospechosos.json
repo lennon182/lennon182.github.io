@@ -11,76 +11,6 @@
   },
   {
     "nCaso": 2,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 23,
-    "inicioSintomas": "03/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "02/03/2020"
-  },
-  {
-    "nCaso": 3,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 34,
-    "inicioSintomas": "16/02/2020",
-    "status": "Sospechoso",
-    "procedencia": "Italia",
-    "llegadaMx": "29/02/2020"
-  },
-  {
-    "nCaso": 4,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 26,
-    "inicioSintomas": "04/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "10/03/2020"
-  },
-  {
-    "nCaso": 5,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 40,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "06/03/2020"
-  },
-  {
-    "nCaso": 6,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 39,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "06/03/2020"
-  },
-  {
-    "nCaso": 7,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 44,
-    "inicioSintomas": "19/02/2020",
-    "status": "Sospechoso",
-    "procedencia": "Italia",
-    "llegadaMx": "22/02/2020"
-  },
-  {
-    "nCaso": 8,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 9,
-    "inicioSintomas": "24/02/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 9,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 49,
@@ -90,17 +20,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 10,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 34,
-    "inicioSintomas": "09/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 11,
+    "nCaso": 3,
     "estado": "SAN LUIS POTOSÍ",
     "sexo": "M",
     "edad": 25,
@@ -110,17 +30,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 12,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 37,
-    "inicioSintomas": "04/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 13,
+    "nCaso": 4,
     "estado": "GUERRERO",
     "sexo": "M",
     "edad": 29,
@@ -130,7 +40,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 14,
+    "nCaso": 5,
     "estado": "HIDALGO",
     "sexo": "F",
     "edad": 72,
@@ -140,37 +50,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 15,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 4,
-    "inicioSintomas": "04/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 16,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 3,
-    "inicioSintomas": "04/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 17,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 56,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "12/03/2020"
-  },
-  {
-    "nCaso": 18,
+    "nCaso": 6,
     "estado": "VERACRUZ",
     "sexo": "M",
     "edad": 29,
@@ -180,7 +60,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 19,
+    "nCaso": 7,
     "estado": "SONORA",
     "sexo": "F",
     "edad": 49,
@@ -190,7 +70,7 @@
     "llegadaMx": "24/02/2020"
   },
   {
-    "nCaso": 20,
+    "nCaso": 8,
     "estado": "HIDALGO",
     "sexo": "F",
     "edad": 23,
@@ -200,17 +80,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 21,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 32,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 22,
+    "nCaso": 9,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 30,
@@ -220,47 +90,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 23,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 32,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 24,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 32,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 25,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 35,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 26,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 27,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 27,
+    "nCaso": 10,
     "estado": "VERACRUZ",
     "sexo": "M",
     "edad": 20,
@@ -270,17 +100,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 28,
-    "estado": "VERACRUZ",
-    "sexo": "M",
-    "edad": 19,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 29,
+    "nCaso": 11,
     "estado": "GUERRERO",
     "sexo": "M",
     "edad": 41,
@@ -290,7 +110,7 @@
     "llegadaMx": "02/03/2020"
   },
   {
-    "nCaso": 30,
+    "nCaso": 12,
     "estado": "BAJA CALIFORNIA",
     "sexo": "F",
     "edad": 34,
@@ -300,7 +120,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 31,
+    "nCaso": 13,
     "estado": "MORELOS",
     "sexo": "M",
     "edad": 42,
@@ -310,17 +130,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 32,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 29,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 33,
+    "nCaso": 14,
     "estado": "GUERRERO",
     "sexo": "F",
     "edad": 3,
@@ -330,7 +140,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 34,
+    "nCaso": 15,
     "estado": "BAJA CALIFORNIA",
     "sexo": "F",
     "edad": 47,
@@ -340,7 +150,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 35,
+    "nCaso": 16,
     "estado": "COLIMA",
     "sexo": "F",
     "edad": 23,
@@ -350,7 +160,7 @@
     "llegadaMx": "10/03/2020"
   },
   {
-    "nCaso": 36,
+    "nCaso": 17,
     "estado": "VERACRUZ",
     "sexo": "F",
     "edad": 38,
@@ -360,7 +170,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 37,
+    "nCaso": 18,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 25,
@@ -370,7 +180,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 38,
+    "nCaso": 19,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 69,
@@ -380,7 +190,7 @@
     "llegadaMx": "03/03/2020"
   },
   {
-    "nCaso": 39,
+    "nCaso": 20,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 19,
@@ -390,17 +200,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 40,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 0,
-    "inicioSintomas": "04/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 41,
+    "nCaso": 21,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 36,
@@ -410,7 +210,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 42,
+    "nCaso": 22,
     "estado": "GUERRERO",
     "sexo": "F",
     "edad": 74,
@@ -420,7 +220,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 43,
+    "nCaso": 23,
     "estado": "AGUASCALIENTES",
     "sexo": "F",
     "edad": 29,
@@ -430,27 +230,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 44,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 28,
-    "inicioSintomas": "07/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 45,
-    "estado": "COAHUILA",
-    "sexo": "F",
-    "edad": 27,
-    "inicioSintomas": "07/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 46,
+    "nCaso": 24,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 34,
@@ -460,7 +240,7 @@
     "llegadaMx": "12/03/2020"
   },
   {
-    "nCaso": 47,
+    "nCaso": 25,
     "estado": "VERACRUZ",
     "sexo": "F",
     "edad": 64,
@@ -470,7 +250,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 48,
+    "nCaso": 26,
     "estado": "HIDALGO",
     "sexo": "F",
     "edad": 37,
@@ -480,7 +260,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 49,
+    "nCaso": 27,
     "estado": "HIDALGO",
     "sexo": "F",
     "edad": 23,
@@ -490,7 +270,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 50,
+    "nCaso": 28,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 34,
@@ -500,7 +280,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 51,
+    "nCaso": 29,
     "estado": "HIDALGO",
     "sexo": "M",
     "edad": 44,
@@ -510,7 +290,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 52,
+    "nCaso": 30,
     "estado": "HIDALGO",
     "sexo": "M",
     "edad": 13,
@@ -520,17 +300,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 53,
-    "estado": "SONORA",
-    "sexo": "F",
-    "edad": 29,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "18/03/2020"
-  },
-  {
-    "nCaso": 54,
+    "nCaso": 31,
     "estado": "SONORA",
     "sexo": "F",
     "edad": 45,
@@ -540,7 +310,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 55,
+    "nCaso": 32,
     "estado": "SONORA",
     "sexo": "F",
     "edad": 25,
@@ -550,17 +320,7 @@
     "llegadaMx": "10/03/2020"
   },
   {
-    "nCaso": 56,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "F",
-    "edad": 57,
-    "inicioSintomas": "11/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "11/03/2020"
-  },
-  {
-    "nCaso": 57,
+    "nCaso": 33,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 29,
@@ -570,7 +330,7 @@
     "llegadaMx": "03/03/2020"
   },
   {
-    "nCaso": 58,
+    "nCaso": 34,
     "estado": "DURANGO",
     "sexo": "F",
     "edad": 52,
@@ -580,7 +340,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 59,
+    "nCaso": 35,
     "estado": "BAJA CALIFORNIA",
     "sexo": "F",
     "edad": 65,
@@ -590,7 +350,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 60,
+    "nCaso": 36,
     "estado": "GUERRERO",
     "sexo": "F",
     "edad": 47,
@@ -600,17 +360,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 61,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 37,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "16/03/2020"
-  },
-  {
-    "nCaso": 62,
+    "nCaso": 37,
     "estado": "CAMPECHE",
     "sexo": "M",
     "edad": 58,
@@ -620,17 +370,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 63,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 39,
-    "inicioSintomas": "14/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 64,
+    "nCaso": 38,
     "estado": "GUERRERO",
     "sexo": "F",
     "edad": 39,
@@ -640,27 +380,7 @@
     "llegadaMx": "05/03/2020"
   },
   {
-    "nCaso": 65,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 37,
-    "inicioSintomas": "07/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "01/03/2020"
-  },
-  {
-    "nCaso": 66,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 32,
-    "inicioSintomas": "14/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "14/03/2020"
-  },
-  {
-    "nCaso": 67,
+    "nCaso": 39,
     "estado": "CAMPECHE",
     "sexo": "F",
     "edad": 59,
@@ -670,27 +390,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 68,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 35,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 69,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 27,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 70,
+    "nCaso": 40,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 33,
@@ -700,17 +400,7 @@
     "llegadaMx": "02/03/2020"
   },
   {
-    "nCaso": 71,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 37,
-    "inicioSintomas": "06/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Italia",
-    "llegadaMx": "01/03/2020"
-  },
-  {
-    "nCaso": 72,
+    "nCaso": 41,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 39,
@@ -720,7 +410,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 73,
+    "nCaso": 42,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 45,
@@ -730,7 +420,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 74,
+    "nCaso": 43,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 22,
@@ -740,7 +430,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 75,
+    "nCaso": 44,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 36,
@@ -750,7 +440,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 76,
+    "nCaso": 45,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 46,
@@ -760,7 +450,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 77,
+    "nCaso": 46,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 30,
@@ -770,17 +460,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 78,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 75,
-    "inicioSintomas": "03/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Italia",
-    "llegadaMx": "21/02/2020"
-  },
-  {
-    "nCaso": 79,
+    "nCaso": 47,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 24,
@@ -790,7 +470,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 80,
+    "nCaso": 48,
     "estado": "TAMAULIPAS",
     "sexo": "F",
     "edad": 38,
@@ -800,7 +480,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 81,
+    "nCaso": 49,
     "estado": "YUCATÁN",
     "sexo": "M",
     "edad": 46,
@@ -810,7 +490,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 82,
+    "nCaso": 50,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 75,
@@ -820,7 +500,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 83,
+    "nCaso": 51,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 54,
@@ -830,7 +510,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 84,
+    "nCaso": 52,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 22,
@@ -840,7 +520,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 85,
+    "nCaso": 53,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 19,
@@ -850,7 +530,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 86,
+    "nCaso": 54,
     "estado": "MICHOACÁN",
     "sexo": "M",
     "edad": 38,
@@ -860,7 +540,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 87,
+    "nCaso": 55,
     "estado": "CHIHUAHUA",
     "sexo": "M",
     "edad": 24,
@@ -870,17 +550,7 @@
     "llegadaMx": "12/03/2020"
   },
   {
-    "nCaso": 88,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 22,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 89,
+    "nCaso": 56,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 47,
@@ -890,7 +560,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 90,
+    "nCaso": 57,
     "estado": "MICHOACÁN",
     "sexo": "F",
     "edad": 38,
@@ -900,7 +570,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 91,
+    "nCaso": 58,
     "estado": "MICHOACÁN",
     "sexo": "F",
     "edad": 3,
@@ -910,7 +580,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 92,
+    "nCaso": 59,
     "estado": "VERACRUZ",
     "sexo": "M",
     "edad": 78,
@@ -920,7 +590,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 93,
+    "nCaso": 60,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 64,
@@ -930,7 +600,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 94,
+    "nCaso": 61,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 80,
@@ -940,17 +610,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 95,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 52,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 96,
+    "nCaso": 62,
     "estado": "VERACRUZ",
     "sexo": "F",
     "edad": 29,
@@ -960,7 +620,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 97,
+    "nCaso": 63,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 46,
@@ -970,7 +630,7 @@
     "llegadaMx": "01/03/2020"
   },
   {
-    "nCaso": 98,
+    "nCaso": 64,
     "estado": "COAHUILA",
     "sexo": "F",
     "edad": 38,
@@ -980,7 +640,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 99,
+    "nCaso": 65,
     "estado": "TLAXCALA",
     "sexo": "F",
     "edad": 25,
@@ -990,7 +650,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 100,
+    "nCaso": 66,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 60,
@@ -1000,17 +660,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 101,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 26,
-    "inicioSintomas": "14/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 102,
+    "nCaso": 67,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 59,
@@ -1020,7 +670,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 103,
+    "nCaso": 68,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 65,
@@ -1030,7 +680,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 104,
+    "nCaso": 69,
     "estado": "GUERRERO",
     "sexo": "M",
     "edad": 64,
@@ -1040,7 +690,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 105,
+    "nCaso": 70,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 69,
@@ -1050,7 +700,7 @@
     "llegadaMx": "03/03/2020"
   },
   {
-    "nCaso": 106,
+    "nCaso": 71,
     "estado": "TABASCO",
     "sexo": "F",
     "edad": 55,
@@ -1060,37 +710,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 107,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "M",
-    "edad": 35,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "17/03/2020"
-  },
-  {
-    "nCaso": 108,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 33,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Alemania",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 109,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "M",
-    "edad": 35,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "16/03/2020"
-  },
-  {
-    "nCaso": 110,
+    "nCaso": 72,
     "estado": "VERACRUZ",
     "sexo": "M",
     "edad": 24,
@@ -1100,17 +720,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 111,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "F",
-    "edad": 30,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 112,
+    "nCaso": 73,
     "estado": "TLAXCALA",
     "sexo": "M",
     "edad": 48,
@@ -1120,7 +730,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 113,
+    "nCaso": 74,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 37,
@@ -1130,7 +740,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 114,
+    "nCaso": 75,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 29,
@@ -1140,17 +750,7 @@
     "llegadaMx": "06/03/2020"
   },
   {
-    "nCaso": 115,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 52,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "12/03/2020"
-  },
-  {
-    "nCaso": 116,
+    "nCaso": 76,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 0,
@@ -1160,17 +760,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 117,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 56,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "12/03/2020"
-  },
-  {
-    "nCaso": 118,
+    "nCaso": 77,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 25,
@@ -1180,7 +770,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 119,
+    "nCaso": 78,
     "estado": "VERACRUZ",
     "sexo": "F",
     "edad": 60,
@@ -1190,7 +780,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 120,
+    "nCaso": 79,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 60,
@@ -1200,7 +790,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 121,
+    "nCaso": 80,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 29,
@@ -1210,7 +800,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 122,
+    "nCaso": 81,
     "estado": "SAN LUIS POTOSÍ",
     "sexo": "F",
     "edad": 45,
@@ -1220,7 +810,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 123,
+    "nCaso": 82,
     "estado": "GUERRERO",
     "sexo": "M",
     "edad": 5,
@@ -1230,7 +820,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 124,
+    "nCaso": 83,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 44,
@@ -1240,7 +830,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 125,
+    "nCaso": 84,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 8,
@@ -1250,7 +840,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 126,
+    "nCaso": 85,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 9,
@@ -1260,7 +850,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 127,
+    "nCaso": 86,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 36,
@@ -1270,7 +860,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 128,
+    "nCaso": 87,
     "estado": "SAN LUIS POTOSÍ",
     "sexo": "F",
     "edad": 22,
@@ -1280,7 +870,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 129,
+    "nCaso": 88,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 37,
@@ -1290,7 +880,7 @@
     "llegadaMx": "02/03/2020"
   },
   {
-    "nCaso": 130,
+    "nCaso": 89,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 51,
@@ -1300,17 +890,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 131,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 35,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "09/03/2020"
-  },
-  {
-    "nCaso": 132,
+    "nCaso": 90,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 28,
@@ -1320,7 +900,7 @@
     "llegadaMx": "10/03/2020"
   },
   {
-    "nCaso": 133,
+    "nCaso": 91,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 21,
@@ -1330,7 +910,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 134,
+    "nCaso": 92,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 33,
@@ -1340,7 +920,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 135,
+    "nCaso": 93,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 42,
@@ -1350,7 +930,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 136,
+    "nCaso": 94,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 0,
@@ -1360,7 +940,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 137,
+    "nCaso": 95,
     "estado": "COLIMA",
     "sexo": "F",
     "edad": 38,
@@ -1370,7 +950,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 138,
+    "nCaso": 96,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 35,
@@ -1380,17 +960,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 139,
-    "estado": "HIDALGO",
-    "sexo": "M",
-    "edad": 60,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "05/03/2020"
-  },
-  {
-    "nCaso": 140,
+    "nCaso": 97,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 25,
@@ -1400,7 +970,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 141,
+    "nCaso": 98,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 56,
@@ -1410,7 +980,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 142,
+    "nCaso": 99,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 29,
@@ -1420,17 +990,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 143,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 29,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Singapur",
-    "llegadaMx": "09/03/2020"
-  },
-  {
-    "nCaso": 144,
+    "nCaso": 100,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 30,
@@ -1440,7 +1000,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 145,
+    "nCaso": 101,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 29,
@@ -1450,7 +1010,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 146,
+    "nCaso": 102,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 26,
@@ -1460,7 +1020,7 @@
     "llegadaMx": "07/02/2020"
   },
   {
-    "nCaso": 147,
+    "nCaso": 103,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 26,
@@ -1470,17 +1030,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 148,
-    "estado": "VERACRUZ",
-    "sexo": "F",
-    "edad": 48,
-    "inicioSintomas": "06/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 149,
+    "nCaso": 104,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 66,
@@ -1490,7 +1040,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 150,
+    "nCaso": 105,
     "estado": "NAYARIT",
     "sexo": "F",
     "edad": 32,
@@ -1500,7 +1050,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 151,
+    "nCaso": 106,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 27,
@@ -1510,7 +1060,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 152,
+    "nCaso": 107,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 28,
@@ -1520,7 +1070,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 153,
+    "nCaso": 108,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 24,
@@ -1530,7 +1080,7 @@
     "llegadaMx": "10/03/2020"
   },
   {
-    "nCaso": 154,
+    "nCaso": 109,
     "estado": "MICHOACÁN",
     "sexo": "F",
     "edad": 21,
@@ -1540,7 +1090,7 @@
     "llegadaMx": "12/03/2020"
   },
   {
-    "nCaso": 155,
+    "nCaso": 110,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 37,
@@ -1550,7 +1100,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 156,
+    "nCaso": 111,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 26,
@@ -1560,7 +1110,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 157,
+    "nCaso": 112,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 50,
@@ -1570,17 +1120,7 @@
     "llegadaMx": "02/03/2020"
   },
   {
-    "nCaso": 158,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 0,
-    "inicioSintomas": "09/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "12/03/2020"
-  },
-  {
-    "nCaso": 159,
+    "nCaso": 113,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 31,
@@ -1590,7 +1130,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 160,
+    "nCaso": 114,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 26,
@@ -1600,7 +1140,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 161,
+    "nCaso": 115,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 34,
@@ -1610,7 +1150,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 162,
+    "nCaso": 116,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 43,
@@ -1620,7 +1160,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 163,
+    "nCaso": 117,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 26,
@@ -1630,7 +1170,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 164,
+    "nCaso": 118,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 44,
@@ -1640,7 +1180,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 165,
+    "nCaso": 119,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 42,
@@ -1650,17 +1190,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 166,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "F",
-    "edad": 49,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "18/03/2020"
-  },
-  {
-    "nCaso": 167,
+    "nCaso": 120,
     "estado": "TLAXCALA",
     "sexo": "F",
     "edad": 51,
@@ -1670,7 +1200,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 168,
+    "nCaso": 121,
     "estado": "TABASCO",
     "sexo": "M",
     "edad": 37,
@@ -1680,7 +1210,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 169,
+    "nCaso": 122,
     "estado": "BAJA CALIFORNIA",
     "sexo": "F",
     "edad": 24,
@@ -1690,7 +1220,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 170,
+    "nCaso": 123,
     "estado": "TLAXCALA",
     "sexo": "F",
     "edad": 25,
@@ -1700,17 +1230,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 171,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "F",
-    "edad": 36,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "19/02/2020"
-  },
-  {
-    "nCaso": 172,
+    "nCaso": 124,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 61,
@@ -1720,7 +1240,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 173,
+    "nCaso": 125,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 52,
@@ -1730,27 +1250,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 174,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 18,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "16/03/2020"
-  },
-  {
-    "nCaso": 175,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 1,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "29/02/2020"
-  },
-  {
-    "nCaso": 176,
+    "nCaso": 126,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 31,
@@ -1760,17 +1260,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 177,
-    "estado": "QUERETARO",
-    "sexo": "F",
-    "edad": 48,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "18/02/2020"
-  },
-  {
-    "nCaso": 178,
+    "nCaso": 127,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 27,
@@ -1780,7 +1270,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 179,
+    "nCaso": 128,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 30,
@@ -1790,7 +1280,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 180,
+    "nCaso": 129,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 31,
@@ -1800,7 +1290,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 181,
+    "nCaso": 130,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 40,
@@ -1810,7 +1300,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 182,
+    "nCaso": 131,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 34,
@@ -1820,7 +1310,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 183,
+    "nCaso": 132,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 30,
@@ -1830,7 +1320,7 @@
     "llegadaMx": "29/02/2020"
   },
   {
-    "nCaso": 184,
+    "nCaso": 133,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 29,
@@ -1840,7 +1330,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 185,
+    "nCaso": 134,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 23,
@@ -1850,17 +1340,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 186,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 4,
-    "inicioSintomas": "01/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Alemania",
-    "llegadaMx": "29/02/2020"
-  },
-  {
-    "nCaso": 187,
+    "nCaso": 135,
     "estado": "VERACRUZ",
     "sexo": "F",
     "edad": 26,
@@ -1870,7 +1350,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 188,
+    "nCaso": 136,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 64,
@@ -1880,7 +1360,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 189,
+    "nCaso": 137,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 25,
@@ -1890,7 +1370,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 190,
+    "nCaso": 138,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 53,
@@ -1900,7 +1380,7 @@
     "llegadaMx": "27/02/2020"
   },
   {
-    "nCaso": 191,
+    "nCaso": 139,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 32,
@@ -1910,7 +1390,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 192,
+    "nCaso": 140,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 56,
@@ -1920,7 +1400,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 193,
+    "nCaso": 141,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 25,
@@ -1930,7 +1410,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 194,
+    "nCaso": 142,
     "estado": "BAJA CALIFORNIA",
     "sexo": "F",
     "edad": 40,
@@ -1940,7 +1420,7 @@
     "llegadaMx": "05/03/2020"
   },
   {
-    "nCaso": 195,
+    "nCaso": 143,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 29,
@@ -1950,7 +1430,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 196,
+    "nCaso": 144,
     "estado": "COLIMA",
     "sexo": "M",
     "edad": 70,
@@ -1960,7 +1440,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 197,
+    "nCaso": 145,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 58,
@@ -1970,7 +1450,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 198,
+    "nCaso": 146,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 33,
@@ -1980,7 +1460,7 @@
     "llegadaMx": "12/03/2020"
   },
   {
-    "nCaso": 199,
+    "nCaso": 147,
     "estado": "YUCATÁN",
     "sexo": "F",
     "edad": 47,
@@ -1990,7 +1470,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 200,
+    "nCaso": 148,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 26,
@@ -2000,7 +1480,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 201,
+    "nCaso": 149,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 21,
@@ -2010,7 +1490,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 202,
+    "nCaso": 150,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 21,
@@ -2020,27 +1500,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 203,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "F",
-    "edad": 4,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "19/03/2020"
-  },
-  {
-    "nCaso": 204,
-    "estado": "CHIHUAHUA",
-    "sexo": "F",
-    "edad": 45,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "09/03/2020"
-  },
-  {
-    "nCaso": 205,
+    "nCaso": 151,
     "estado": "BAJA CALIFORNIA",
     "sexo": "F",
     "edad": 51,
@@ -2050,7 +1510,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 206,
+    "nCaso": 152,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 36,
@@ -2060,7 +1520,7 @@
     "llegadaMx": "10/03/2020"
   },
   {
-    "nCaso": 207,
+    "nCaso": 153,
     "estado": "TAMAULIPAS",
     "sexo": "M",
     "edad": 32,
@@ -2070,17 +1530,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 208,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 36,
-    "inicioSintomas": "26/02/2020",
-    "status": "Sospechoso",
-    "procedencia": "China",
-    "llegadaMx": "18/02/2020"
-  },
-  {
-    "nCaso": 209,
+    "nCaso": 154,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 23,
@@ -2090,17 +1540,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 210,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "F",
-    "edad": 30,
-    "inicioSintomas": "09/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 211,
+    "nCaso": 155,
     "estado": "QUERETARO",
     "sexo": "M",
     "edad": 54,
@@ -2110,7 +1550,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 212,
+    "nCaso": 156,
     "estado": "TLAXCALA",
     "sexo": "F",
     "edad": 28,
@@ -2120,7 +1560,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 213,
+    "nCaso": 157,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 39,
@@ -2130,7 +1570,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 214,
+    "nCaso": 158,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 44,
@@ -2140,17 +1580,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 215,
-    "estado": "CHIHUAHUA",
-    "sexo": "M",
-    "edad": 47,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "13/03/2020"
-  },
-  {
-    "nCaso": 216,
+    "nCaso": 159,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 33,
@@ -2160,7 +1590,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 217,
+    "nCaso": 160,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 56,
@@ -2170,7 +1600,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 218,
+    "nCaso": 161,
     "estado": "VERACRUZ",
     "sexo": "M",
     "edad": 34,
@@ -2180,7 +1610,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 219,
+    "nCaso": 162,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 23,
@@ -2190,7 +1620,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 220,
+    "nCaso": 163,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 58,
@@ -2200,7 +1630,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 221,
+    "nCaso": 164,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 34,
@@ -2210,17 +1640,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 222,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "F",
-    "edad": 4,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "16/03/2020"
-  },
-  {
-    "nCaso": 223,
+    "nCaso": 165,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 35,
@@ -2230,7 +1650,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 224,
+    "nCaso": 166,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 54,
@@ -2240,7 +1660,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 225,
+    "nCaso": 167,
     "estado": "SINALOA",
     "sexo": "M",
     "edad": 27,
@@ -2250,7 +1670,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 226,
+    "nCaso": 168,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 51,
@@ -2260,17 +1680,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 227,
-    "estado": "YUCATÁN",
-    "sexo": "M",
-    "edad": 45,
-    "inicioSintomas": "14/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 228,
+    "nCaso": 169,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 24,
@@ -2280,27 +1690,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 229,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 63,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "04/03/2020"
-  },
-  {
-    "nCaso": 230,
-    "estado": "SONORA",
-    "sexo": "F",
-    "edad": 28,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 231,
+    "nCaso": 170,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 42,
@@ -2310,37 +1700,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 232,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 17,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "18/03/2020"
-  },
-  {
-    "nCaso": 233,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 35,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 234,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 25,
-    "inicioSintomas": "05/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 235,
+    "nCaso": 171,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 31,
@@ -2350,27 +1710,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 236,
-    "estado": "QUERETARO",
-    "sexo": "F",
-    "edad": 27,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "16/03/2020"
-  },
-  {
-    "nCaso": 237,
-    "estado": "SONORA",
-    "sexo": "F",
-    "edad": 25,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 238,
+    "nCaso": 172,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 52,
@@ -2380,17 +1720,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 239,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 68,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "14/03/2020"
-  },
-  {
-    "nCaso": 240,
+    "nCaso": 173,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 51,
@@ -2400,7 +1730,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 241,
+    "nCaso": 174,
     "estado": "QUERETARO",
     "sexo": "F",
     "edad": 37,
@@ -2410,7 +1740,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 242,
+    "nCaso": 175,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 36,
@@ -2420,7 +1750,7 @@
     "llegadaMx": "10/03/2020"
   },
   {
-    "nCaso": 243,
+    "nCaso": 176,
     "estado": "ZACATECAS",
     "sexo": "M",
     "edad": 34,
@@ -2430,7 +1760,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 244,
+    "nCaso": 177,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 42,
@@ -2440,37 +1770,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 245,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "M",
-    "edad": 30,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 246,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 33,
-    "inicioSintomas": "09/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "01/03/2020"
-  },
-  {
-    "nCaso": 247,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 31,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 248,
+    "nCaso": 178,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 42,
@@ -2480,7 +1780,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 249,
+    "nCaso": 179,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 39,
@@ -2490,7 +1790,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 250,
+    "nCaso": 180,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 35,
@@ -2500,17 +1800,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 251,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "M",
-    "edad": 32,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "06/03/2020"
-  },
-  {
-    "nCaso": 252,
+    "nCaso": 181,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 13,
@@ -2520,7 +1810,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 253,
+    "nCaso": 182,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 28,
@@ -2530,7 +1820,7 @@
     "llegadaMx": "06/03/2020"
   },
   {
-    "nCaso": 254,
+    "nCaso": 183,
     "estado": "BAJA CALIFORNIA SUR",
     "sexo": "M",
     "edad": 27,
@@ -2540,7 +1830,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 255,
+    "nCaso": 184,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 31,
@@ -2550,7 +1840,7 @@
     "llegadaMx": "05/03/2020"
   },
   {
-    "nCaso": 256,
+    "nCaso": 185,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 71,
@@ -2560,17 +1850,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 257,
-    "estado": "MORELOS",
-    "sexo": "M",
-    "edad": 34,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 258,
+    "nCaso": 186,
     "estado": "COAHUILA",
     "sexo": "M",
     "edad": 76,
@@ -2580,27 +1860,7 @@
     "llegadaMx": "01/03/2020"
   },
   {
-    "nCaso": 259,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 26,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "14/03/2020"
-  },
-  {
-    "nCaso": 260,
-    "estado": "VERACRUZ",
-    "sexo": "F",
-    "edad": 60,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 261,
+    "nCaso": 187,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 2,
@@ -2610,7 +1870,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 262,
+    "nCaso": 188,
     "estado": "SONORA",
     "sexo": "F",
     "edad": 27,
@@ -2620,17 +1880,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 263,
-    "estado": "MICHOACÁN",
-    "sexo": "M",
-    "edad": 36,
-    "inicioSintomas": "09/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 264,
+    "nCaso": 189,
     "estado": "QUERETARO",
     "sexo": "M",
     "edad": 24,
@@ -2640,7 +1890,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 265,
+    "nCaso": 190,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 38,
@@ -2650,7 +1900,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 266,
+    "nCaso": 191,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 49,
@@ -2660,7 +1910,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 267,
+    "nCaso": 192,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 60,
@@ -2670,7 +1920,7 @@
     "llegadaMx": "03/02/2020"
   },
   {
-    "nCaso": 268,
+    "nCaso": 193,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 33,
@@ -2680,7 +1930,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 269,
+    "nCaso": 194,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 54,
@@ -2690,17 +1940,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 270,
-    "estado": "SINALOA",
-    "sexo": "M",
-    "edad": 55,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 271,
+    "nCaso": 195,
     "estado": "VERACRUZ",
     "sexo": "M",
     "edad": 32,
@@ -2710,27 +1950,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 272,
-    "estado": "MORELOS",
-    "sexo": "F",
-    "edad": 33,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 273,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "M",
-    "edad": 27,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "13/03/2020"
-  },
-  {
-    "nCaso": 274,
+    "nCaso": 196,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 62,
@@ -2740,27 +1960,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 275,
-    "estado": "HIDALGO",
-    "sexo": "M",
-    "edad": 54,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "16/03/2020"
-  },
-  {
-    "nCaso": 276,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 43,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "13/03/2020"
-  },
-  {
-    "nCaso": 277,
+    "nCaso": 197,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 27,
@@ -2770,7 +1970,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 278,
+    "nCaso": 198,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 61,
@@ -2780,7 +1980,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 279,
+    "nCaso": 199,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 32,
@@ -2790,27 +1990,7 @@
     "llegadaMx": "19/03/2020"
   },
   {
-    "nCaso": 280,
-    "estado": "CHIHUAHUA",
-    "sexo": "F",
-    "edad": 19,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "14/03/2020"
-  },
-  {
-    "nCaso": 281,
-    "estado": "MICHOACÁN",
-    "sexo": "M",
-    "edad": 31,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 282,
+    "nCaso": 200,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 40,
@@ -2820,17 +2000,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 283,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 25,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 284,
+    "nCaso": 201,
     "estado": "MORELOS",
     "sexo": "F",
     "edad": 65,
@@ -2840,7 +2010,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 285,
+    "nCaso": 202,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 35,
@@ -2850,7 +2020,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 286,
+    "nCaso": 203,
     "estado": "QUERETARO",
     "sexo": "F",
     "edad": 39,
@@ -2860,7 +2030,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 287,
+    "nCaso": 204,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 37,
@@ -2870,7 +2040,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 288,
+    "nCaso": 205,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 30,
@@ -2880,7 +2050,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 289,
+    "nCaso": 206,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 30,
@@ -2890,17 +2060,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 290,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "F",
-    "edad": 35,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "06/03/2020"
-  },
-  {
-    "nCaso": 291,
+    "nCaso": 207,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 24,
@@ -2910,7 +2070,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 292,
+    "nCaso": 208,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 40,
@@ -2920,17 +2080,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 293,
-    "estado": "CHIHUAHUA",
-    "sexo": "F",
-    "edad": 21,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "14/03/2020"
-  },
-  {
-    "nCaso": 294,
+    "nCaso": 209,
     "estado": "VERACRUZ",
     "sexo": "F",
     "edad": 24,
@@ -2940,17 +2090,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 295,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 37,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 296,
+    "nCaso": 210,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 31,
@@ -2960,7 +2100,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 297,
+    "nCaso": 211,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 35,
@@ -2970,17 +2110,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 298,
-    "estado": "NUEVO LEÓN",
-    "sexo": "M",
-    "edad": 25,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 299,
+    "nCaso": 212,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 31,
@@ -2990,7 +2120,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 300,
+    "nCaso": 213,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 19,
@@ -3000,7 +2130,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 301,
+    "nCaso": 214,
     "estado": "ZACATECAS",
     "sexo": "M",
     "edad": 28,
@@ -3010,7 +2140,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 302,
+    "nCaso": 215,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 27,
@@ -3020,17 +2150,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 303,
-    "estado": "SINALOA",
-    "sexo": "M",
-    "edad": 73,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "10/03/2020"
-  },
-  {
-    "nCaso": 304,
+    "nCaso": 216,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 53,
@@ -3040,17 +2160,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 305,
-    "estado": "COAHUILA",
-    "sexo": "F",
-    "edad": 44,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "03/03/2020"
-  },
-  {
-    "nCaso": 306,
+    "nCaso": 217,
     "estado": "SINALOA",
     "sexo": "F",
     "edad": 27,
@@ -3060,7 +2170,7 @@
     "llegadaMx": "12/03/2020"
   },
   {
-    "nCaso": 307,
+    "nCaso": 218,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 51,
@@ -3070,17 +2180,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 308,
-    "estado": "MORELOS",
-    "sexo": "F",
-    "edad": 72,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Italia",
-    "llegadaMx": "14/03/2020"
-  },
-  {
-    "nCaso": 309,
+    "nCaso": 219,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 35,
@@ -3090,7 +2190,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 310,
+    "nCaso": 220,
     "estado": "TABASCO",
     "sexo": "M",
     "edad": 60,
@@ -3100,7 +2200,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 311,
+    "nCaso": 221,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 31,
@@ -3110,7 +2210,7 @@
     "llegadaMx": "20/02/2020"
   },
   {
-    "nCaso": 312,
+    "nCaso": 222,
     "estado": "SINALOA",
     "sexo": "M",
     "edad": 30,
@@ -3120,27 +2220,7 @@
     "llegadaMx": "12/03/2020"
   },
   {
-    "nCaso": 313,
-    "estado": "NUEVO LEÓN",
-    "sexo": "M",
-    "edad": 30,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "13/03/2020"
-  },
-  {
-    "nCaso": 314,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 28,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Japón",
-    "llegadaMx": "09/03/2020"
-  },
-  {
-    "nCaso": 315,
+    "nCaso": 223,
     "estado": "TABASCO",
     "sexo": "M",
     "edad": 55,
@@ -3150,7 +2230,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 316,
+    "nCaso": 224,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 42,
@@ -3160,7 +2240,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 317,
+    "nCaso": 225,
     "estado": "CHIAPAS",
     "sexo": "M",
     "edad": 37,
@@ -3170,7 +2250,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 318,
+    "nCaso": 226,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 28,
@@ -3180,7 +2260,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 319,
+    "nCaso": 227,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 17,
@@ -3190,17 +2270,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 320,
-    "estado": "NUEVO LEÓN",
-    "sexo": "M",
-    "edad": 28,
-    "inicioSintomas": "14/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 321,
+    "nCaso": 228,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 33,
@@ -3210,7 +2280,7 @@
     "llegadaMx": "05/03/2020"
   },
   {
-    "nCaso": 322,
+    "nCaso": 229,
     "estado": "VERACRUZ",
     "sexo": "M",
     "edad": 24,
@@ -3220,17 +2290,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 323,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "M",
-    "edad": 51,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 324,
+    "nCaso": 230,
     "estado": "TABASCO",
     "sexo": "M",
     "edad": 50,
@@ -3240,7 +2300,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 325,
+    "nCaso": 231,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 29,
@@ -3250,7 +2310,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 326,
+    "nCaso": 232,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 39,
@@ -3260,7 +2320,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 327,
+    "nCaso": 233,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 47,
@@ -3270,7 +2330,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 328,
+    "nCaso": 234,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 46,
@@ -3280,7 +2340,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 329,
+    "nCaso": 235,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 59,
@@ -3290,7 +2350,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 330,
+    "nCaso": 236,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 57,
@@ -3300,7 +2360,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 331,
+    "nCaso": 237,
     "estado": "TLAXCALA",
     "sexo": "F",
     "edad": 41,
@@ -3310,17 +2370,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 332,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 31,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 333,
+    "nCaso": 238,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 47,
@@ -3330,7 +2380,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 334,
+    "nCaso": 239,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 34,
@@ -3340,17 +2390,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 335,
-    "estado": "ZACATECAS",
-    "sexo": "M",
-    "edad": 32,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 336,
+    "nCaso": 240,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 33,
@@ -3360,7 +2400,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 337,
+    "nCaso": 241,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 79,
@@ -3370,7 +2410,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 338,
+    "nCaso": 242,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 61,
@@ -3380,7 +2420,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 339,
+    "nCaso": 243,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 55,
@@ -3390,7 +2430,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 340,
+    "nCaso": 244,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 32,
@@ -3400,27 +2440,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 341,
-    "estado": "VERACRUZ",
-    "sexo": "F",
-    "edad": 32,
-    "inicioSintomas": "14/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "06/03/2020"
-  },
-  {
-    "nCaso": 342,
-    "estado": "NUEVO LEÓN",
-    "sexo": "M",
-    "edad": 30,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "13/03/2020"
-  },
-  {
-    "nCaso": 343,
+    "nCaso": 245,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 51,
@@ -3430,7 +2450,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 344,
+    "nCaso": 246,
     "estado": "TLAXCALA",
     "sexo": "F",
     "edad": 51,
@@ -3440,7 +2460,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 345,
+    "nCaso": 247,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 49,
@@ -3450,7 +2470,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 346,
+    "nCaso": 248,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 26,
@@ -3460,17 +2480,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 347,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "M",
-    "edad": 37,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "18/03/2020"
-  },
-  {
-    "nCaso": 348,
+    "nCaso": 249,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 39,
@@ -3480,17 +2490,7 @@
     "llegadaMx": "05/03/2020"
   },
   {
-    "nCaso": 349,
-    "estado": "CIUDAD DE MÉXICO",
-    "sexo": "M",
-    "edad": 27,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 350,
+    "nCaso": 250,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 58,
@@ -3500,17 +2500,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 351,
-    "estado": "SINALOA",
-    "sexo": "M",
-    "edad": 30,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 352,
+    "nCaso": 251,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 43,
@@ -3520,7 +2510,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 353,
+    "nCaso": 252,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 25,
@@ -3530,17 +2520,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 354,
-    "estado": "TAMAULIPAS",
-    "sexo": "F",
-    "edad": 21,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "12/03/2020"
-  },
-  {
-    "nCaso": 355,
+    "nCaso": 253,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 19,
@@ -3550,7 +2530,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 356,
+    "nCaso": 254,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 29,
@@ -3560,7 +2540,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 357,
+    "nCaso": 255,
     "estado": "BAJA CALIFORNIA",
     "sexo": "F",
     "edad": 9,
@@ -3570,17 +2550,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 358,
-    "estado": "SONORA",
-    "sexo": "F",
-    "edad": 26,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "09/03/2020"
-  },
-  {
-    "nCaso": 359,
+    "nCaso": 256,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 22,
@@ -3590,7 +2560,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 360,
+    "nCaso": 257,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 29,
@@ -3600,7 +2570,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 361,
+    "nCaso": 258,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 11,
@@ -3610,7 +2580,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 362,
+    "nCaso": 259,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 55,
@@ -3620,7 +2590,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 363,
+    "nCaso": 260,
     "estado": "SINALOA",
     "sexo": "F",
     "edad": 53,
@@ -3630,7 +2600,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 364,
+    "nCaso": 261,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 42,
@@ -3640,7 +2610,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 365,
+    "nCaso": 262,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 41,
@@ -3650,7 +2620,7 @@
     "llegadaMx": "12/03/2020"
   },
   {
-    "nCaso": 366,
+    "nCaso": 263,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 46,
@@ -3660,7 +2630,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 367,
+    "nCaso": 264,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 23,
@@ -3670,17 +2640,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 368,
-    "estado": "SONORA",
-    "sexo": "F",
-    "edad": 72,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 369,
+    "nCaso": 265,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 29,
@@ -3690,7 +2650,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 370,
+    "nCaso": 266,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 40,
@@ -3700,7 +2660,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 371,
+    "nCaso": 267,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 23,
@@ -3710,7 +2670,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 372,
+    "nCaso": 268,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 26,
@@ -3720,17 +2680,7 @@
     "llegadaMx": "19/03/2020"
   },
   {
-    "nCaso": 373,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 55,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 374,
+    "nCaso": 269,
     "estado": "SAN LUIS POTOSÍ",
     "sexo": "F",
     "edad": 51,
@@ -3740,7 +2690,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 375,
+    "nCaso": 270,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 27,
@@ -3750,7 +2700,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 376,
+    "nCaso": 271,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 34,
@@ -3760,27 +2710,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 377,
-    "estado": "SONORA",
-    "sexo": "F",
-    "edad": 35,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 378,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "M",
-    "edad": 21,
-    "inicioSintomas": "11/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 379,
+    "nCaso": 272,
     "estado": "VERACRUZ",
     "sexo": "M",
     "edad": 42,
@@ -3790,27 +2720,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 380,
-    "estado": "SONORA",
-    "sexo": "F",
-    "edad": 26,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "17/03/2020"
-  },
-  {
-    "nCaso": 381,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 58,
-    "inicioSintomas": "08/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 382,
+    "nCaso": 273,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 57,
@@ -3820,37 +2730,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 383,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "F",
-    "edad": 30,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "16/03/2020"
-  },
-  {
-    "nCaso": 384,
-    "estado": "JALISCO",
-    "sexo": "F",
-    "edad": 24,
-    "inicioSintomas": "09/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "09/03/2020"
-  },
-  {
-    "nCaso": 385,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "M",
-    "edad": 22,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 386,
+    "nCaso": 274,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 38,
@@ -3860,7 +2740,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 387,
+    "nCaso": 275,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 43,
@@ -3870,7 +2750,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 388,
+    "nCaso": 276,
     "estado": "VERACRUZ",
     "sexo": "F",
     "edad": 30,
@@ -3880,7 +2760,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 389,
+    "nCaso": 277,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 58,
@@ -3890,27 +2770,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 390,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "F",
-    "edad": 27,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "18/03/2020"
-  },
-  {
-    "nCaso": 391,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "M",
-    "edad": 21,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "18/03/2020"
-  },
-  {
-    "nCaso": 392,
+    "nCaso": 278,
     "estado": "TABASCO",
     "sexo": "F",
     "edad": 78,
@@ -3920,7 +2780,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 393,
+    "nCaso": 279,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 24,
@@ -3930,27 +2790,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 394,
-    "estado": "SONORA",
-    "sexo": "F",
-    "edad": 46,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 395,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "M",
-    "edad": 34,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "05/03/2020"
-  },
-  {
-    "nCaso": 396,
+    "nCaso": 280,
     "estado": "VERACRUZ",
     "sexo": "F",
     "edad": 33,
@@ -3960,7 +2800,7 @@
     "llegadaMx": "27/02/2020"
   },
   {
-    "nCaso": 397,
+    "nCaso": 281,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 36,
@@ -3970,17 +2810,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 398,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 38,
-    "inicioSintomas": "07/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 399,
+    "nCaso": 282,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 37,
@@ -3990,7 +2820,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 400,
+    "nCaso": 283,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 28,
@@ -4000,7 +2830,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 401,
+    "nCaso": 284,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 31,
@@ -4010,7 +2840,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 402,
+    "nCaso": 285,
     "estado": "TABASCO",
     "sexo": "M",
     "edad": 30,
@@ -4020,7 +2850,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 403,
+    "nCaso": 286,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 50,
@@ -4030,17 +2860,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 404,
-    "estado": "HIDALGO",
-    "sexo": "M",
-    "edad": 61,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 405,
+    "nCaso": 287,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 37,
@@ -4050,17 +2870,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 406,
-    "estado": "SONORA",
-    "sexo": "M",
-    "edad": 52,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 407,
+    "nCaso": 288,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 60,
@@ -4070,7 +2880,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 408,
+    "nCaso": 289,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 26,
@@ -4080,7 +2890,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 409,
+    "nCaso": 290,
     "estado": "AGUASCALIENTES",
     "sexo": "F",
     "edad": 30,
@@ -4090,7 +2900,7 @@
     "llegadaMx": "12/03/2020"
   },
   {
-    "nCaso": 410,
+    "nCaso": 291,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 19,
@@ -4100,17 +2910,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 411,
-    "estado": "SINALOA",
-    "sexo": "F",
-    "edad": 39,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 412,
+    "nCaso": 292,
     "estado": "VERACRUZ",
     "sexo": "M",
     "edad": 62,
@@ -4120,7 +2920,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 413,
+    "nCaso": 293,
     "estado": "VERACRUZ",
     "sexo": "F",
     "edad": 46,
@@ -4130,7 +2930,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 414,
+    "nCaso": 294,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 49,
@@ -4140,7 +2940,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 415,
+    "nCaso": 295,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 35,
@@ -4150,7 +2950,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 416,
+    "nCaso": 296,
     "estado": "TABASCO",
     "sexo": "F",
     "edad": 41,
@@ -4160,27 +2960,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 417,
-    "estado": "AGUASCALIENTES",
-    "sexo": "F",
-    "edad": 49,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "12/03/2020"
-  },
-  {
-    "nCaso": 418,
-    "estado": "CAMPECHE",
-    "sexo": "M",
-    "edad": 52,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "18/03/2020"
-  },
-  {
-    "nCaso": 419,
+    "nCaso": 297,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 35,
@@ -4190,7 +2970,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 420,
+    "nCaso": 298,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 30,
@@ -4200,7 +2980,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 421,
+    "nCaso": 299,
     "estado": "VERACRUZ",
     "sexo": "F",
     "edad": 23,
@@ -4210,7 +2990,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 422,
+    "nCaso": 300,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 36,
@@ -4220,7 +3000,7 @@
     "llegadaMx": "12/03/2020"
   },
   {
-    "nCaso": 423,
+    "nCaso": 301,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 26,
@@ -4230,17 +3010,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 424,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 25,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "06/03/2020"
-  },
-  {
-    "nCaso": 425,
+    "nCaso": 302,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 76,
@@ -4250,7 +3020,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 426,
+    "nCaso": 303,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 31,
@@ -4260,7 +3030,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 427,
+    "nCaso": 304,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 30,
@@ -4270,37 +3040,7 @@
     "llegadaMx": "05/03/2020"
   },
   {
-    "nCaso": 428,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 40,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 429,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 38,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 430,
-    "estado": "AGUASCALIENTES",
-    "sexo": "M",
-    "edad": 50,
-    "inicioSintomas": "20/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "12/03/2020"
-  },
-  {
-    "nCaso": 431,
+    "nCaso": 305,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 30,
@@ -4310,7 +3050,7 @@
     "llegadaMx": "05/03/2020"
   },
   {
-    "nCaso": 432,
+    "nCaso": 306,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 44,
@@ -4320,7 +3060,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 433,
+    "nCaso": 307,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 46,
@@ -4330,7 +3070,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 434,
+    "nCaso": 308,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 41,
@@ -4340,7 +3080,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 435,
+    "nCaso": 309,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 57,
@@ -4350,7 +3090,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 436,
+    "nCaso": 310,
     "estado": "TABASCO",
     "sexo": "F",
     "edad": 59,
@@ -4360,7 +3100,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 437,
+    "nCaso": 311,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 25,
@@ -4370,7 +3110,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 438,
+    "nCaso": 312,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 50,
@@ -4380,7 +3120,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 439,
+    "nCaso": 313,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 25,
@@ -4390,17 +3130,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 440,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 27,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "05/03/2020"
-  },
-  {
-    "nCaso": 441,
+    "nCaso": 314,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 27,
@@ -4410,7 +3140,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 442,
+    "nCaso": 315,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 70,
@@ -4420,7 +3150,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 443,
+    "nCaso": 316,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 36,
@@ -4430,7 +3160,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 444,
+    "nCaso": 317,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 29,
@@ -4440,7 +3170,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 445,
+    "nCaso": 318,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 47,
@@ -4450,7 +3180,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 446,
+    "nCaso": 319,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 56,
@@ -4460,7 +3190,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 447,
+    "nCaso": 320,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 20,
@@ -4470,7 +3200,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 448,
+    "nCaso": 321,
     "estado": "BAJA CALIFORNIA SUR",
     "sexo": "F",
     "edad": 39,
@@ -4480,7 +3210,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 449,
+    "nCaso": 322,
     "estado": "AGUASCALIENTES",
     "sexo": "F",
     "edad": 40,
@@ -4490,17 +3220,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 450,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 26,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "17/03/2020"
-  },
-  {
-    "nCaso": 451,
+    "nCaso": 323,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 12,
@@ -4510,7 +3230,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 452,
+    "nCaso": 324,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 27,
@@ -4520,7 +3240,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 453,
+    "nCaso": 325,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 56,
@@ -4530,7 +3250,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 454,
+    "nCaso": 326,
     "estado": "TABASCO",
     "sexo": "M",
     "edad": 36,
@@ -4540,7 +3260,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 455,
+    "nCaso": 327,
     "estado": "CHIHUAHUA",
     "sexo": "F",
     "edad": 55,
@@ -4550,7 +3270,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 456,
+    "nCaso": 328,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 46,
@@ -4560,7 +3280,7 @@
     "llegadaMx": "02/03/2020"
   },
   {
-    "nCaso": 457,
+    "nCaso": 329,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 43,
@@ -4570,7 +3290,7 @@
     "llegadaMx": "10/03/2020"
   },
   {
-    "nCaso": 458,
+    "nCaso": 330,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 46,
@@ -4580,7 +3300,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 459,
+    "nCaso": 331,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 57,
@@ -4590,7 +3310,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 460,
+    "nCaso": 332,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 22,
@@ -4600,7 +3320,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 461,
+    "nCaso": 333,
     "estado": "TABASCO",
     "sexo": "M",
     "edad": 45,
@@ -4610,27 +3330,7 @@
     "llegadaMx": "02/03/2020"
   },
   {
-    "nCaso": 462,
-    "estado": "AGUASCALIENTES",
-    "sexo": "F",
-    "edad": 32,
-    "inicioSintomas": "14/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 463,
-    "estado": "HIDALGO",
-    "sexo": "M",
-    "edad": 56,
-    "inicioSintomas": "07/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 464,
+    "nCaso": 334,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 18,
@@ -4640,17 +3340,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 465,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 32,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 466,
+    "nCaso": 335,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 18,
@@ -4660,7 +3350,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 467,
+    "nCaso": 336,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 0,
@@ -4670,7 +3360,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 468,
+    "nCaso": 337,
     "estado": "TABASCO",
     "sexo": "F",
     "edad": 28,
@@ -4680,7 +3370,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 469,
+    "nCaso": 338,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 43,
@@ -4690,7 +3380,7 @@
     "llegadaMx": "10/03/2020"
   },
   {
-    "nCaso": 470,
+    "nCaso": 339,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 31,
@@ -4700,7 +3390,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 471,
+    "nCaso": 340,
     "estado": "TABASCO",
     "sexo": "F",
     "edad": 22,
@@ -4710,7 +3400,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 472,
+    "nCaso": 341,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 29,
@@ -4720,7 +3410,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 473,
+    "nCaso": 342,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 12,
@@ -4730,7 +3420,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 474,
+    "nCaso": 343,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 22,
@@ -4740,7 +3430,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 475,
+    "nCaso": 344,
     "estado": "GUERRERO",
     "sexo": "F",
     "edad": 35,
@@ -4750,27 +3440,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 476,
-    "estado": "JALISCO",
-    "sexo": "F",
-    "edad": 22,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "23/02/2020"
-  },
-  {
-    "nCaso": 477,
-    "estado": "BAJA CALIFORNIA SUR",
-    "sexo": "F",
-    "edad": 68,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "29/02/2020"
-  },
-  {
-    "nCaso": 478,
+    "nCaso": 345,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 16,
@@ -4780,7 +3450,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 479,
+    "nCaso": 346,
     "estado": "TABASCO",
     "sexo": "M",
     "edad": 39,
@@ -4790,7 +3460,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 480,
+    "nCaso": 347,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 29,
@@ -4800,17 +3470,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 481,
-    "estado": "GUERRERO",
-    "sexo": "M",
-    "edad": 25,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Alemania",
-    "llegadaMx": "10/03/2020"
-  },
-  {
-    "nCaso": 482,
+    "nCaso": 348,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 38,
@@ -4820,7 +3480,7 @@
     "llegadaMx": "01/03/2020"
   },
   {
-    "nCaso": 483,
+    "nCaso": 349,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 52,
@@ -4830,7 +3490,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 484,
+    "nCaso": 350,
     "estado": "BAJA CALIFORNIA",
     "sexo": "F",
     "edad": 36,
@@ -4840,17 +3500,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 485,
-    "estado": "BAJA CALIFORNIA SUR",
-    "sexo": "M",
-    "edad": 62,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "29/02/2020"
-  },
-  {
-    "nCaso": 486,
+    "nCaso": 351,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 23,
@@ -4860,17 +3510,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 487,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 31,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 488,
+    "nCaso": 352,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 60,
@@ -4880,27 +3520,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 489,
-    "estado": "TABASCO",
-    "sexo": "F",
-    "edad": 71,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "17/03/2020"
-  },
-  {
-    "nCaso": 490,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 4,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 491,
+    "nCaso": 353,
     "estado": "BAJA CALIFORNIA SUR",
     "sexo": "M",
     "edad": 40,
@@ -4910,47 +3530,7 @@
     "llegadaMx": "06/03/2020"
   },
   {
-    "nCaso": 492,
-    "estado": "JALISCO",
-    "sexo": "F",
-    "edad": 38,
-    "inicioSintomas": "11/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "07/03/2020"
-  },
-  {
-    "nCaso": 493,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 32,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "02/03/2020"
-  },
-  {
-    "nCaso": 494,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 30,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "09/03/2020"
-  },
-  {
-    "nCaso": 495,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 63,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "16/03/2020"
-  },
-  {
-    "nCaso": 496,
+    "nCaso": 354,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 33,
@@ -4960,17 +3540,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 497,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "M",
-    "edad": 79,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "19/03/2020"
-  },
-  {
-    "nCaso": 498,
+    "nCaso": 355,
     "estado": "HIDALGO",
     "sexo": "F",
     "edad": 43,
@@ -4980,27 +3550,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 499,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 42,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "11/03/2020"
-  },
-  {
-    "nCaso": 500,
-    "estado": "YUCATÁN",
-    "sexo": "F",
-    "edad": 17,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 501,
+    "nCaso": 356,
     "estado": "BAJA CALIFORNIA SUR",
     "sexo": "F",
     "edad": 43,
@@ -5010,7 +3560,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 502,
+    "nCaso": 357,
     "estado": "SONORA",
     "sexo": "M",
     "edad": 42,
@@ -5020,37 +3570,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 503,
-    "estado": "YUCATÁN",
-    "sexo": "F",
-    "edad": 19,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 504,
-    "estado": "COAHUILA",
-    "sexo": "F",
-    "edad": 13,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "11/03/2020"
-  },
-  {
-    "nCaso": 505,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 11,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "11/03/2020"
-  },
-  {
-    "nCaso": 506,
+    "nCaso": 358,
     "estado": "QUINTANA ROO",
     "sexo": "F",
     "edad": 23,
@@ -5060,17 +3580,7 @@
     "llegadaMx": "19/03/2020"
   },
   {
-    "nCaso": 507,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 31,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 508,
+    "nCaso": 359,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 16,
@@ -5080,7 +3590,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 509,
+    "nCaso": 360,
     "estado": "BAJA CALIFORNIA SUR",
     "sexo": "M",
     "edad": 23,
@@ -5090,47 +3600,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 510,
-    "estado": "HIDALGO",
-    "sexo": "M",
-    "edad": 21,
-    "inicioSintomas": "20/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 511,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 16,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "11/03/2020"
-  },
-  {
-    "nCaso": 512,
-    "estado": "HIDALGO",
-    "sexo": "M",
-    "edad": 22,
-    "inicioSintomas": "20/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 513,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 43,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "11/03/2020"
-  },
-  {
-    "nCaso": 514,
+    "nCaso": 361,
     "estado": "BAJA CALIFORNIA SUR",
     "sexo": "F",
     "edad": 29,
@@ -5140,57 +3610,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 515,
-    "estado": "COAHUILA",
-    "sexo": "F",
-    "edad": 12,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "11/03/2020"
-  },
-  {
-    "nCaso": 516,
-    "estado": "HIDALGO",
-    "sexo": "M",
-    "edad": 33,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Alemania",
-    "llegadaMx": "19/03/2020"
-  },
-  {
-    "nCaso": 517,
-    "estado": "SONORA",
-    "sexo": "M",
-    "edad": 30,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "13/03/2020"
-  },
-  {
-    "nCaso": 518,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 20,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "11/03/2020"
-  },
-  {
-    "nCaso": 519,
-    "estado": "SONORA",
-    "sexo": "F",
-    "edad": 42,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "17/03/2020"
-  },
-  {
-    "nCaso": 520,
+    "nCaso": 362,
     "estado": "COAHUILA",
     "sexo": "M",
     "edad": 53,
@@ -5200,27 +3620,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 521,
-    "estado": "MICHOACÁN",
-    "sexo": "F",
-    "edad": 57,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 522,
-    "estado": "MICHOACÁN",
-    "sexo": "M",
-    "edad": 57,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 523,
+    "nCaso": 363,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 39,
@@ -5230,17 +3630,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 524,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 30,
-    "inicioSintomas": "20/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 525,
+    "nCaso": 364,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 43,
@@ -5250,7 +3640,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 526,
+    "nCaso": 365,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 29,
@@ -5260,7 +3650,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 527,
+    "nCaso": 366,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 25,
@@ -5270,7 +3660,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 528,
+    "nCaso": 367,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 21,
@@ -5280,27 +3670,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 529,
-    "estado": "HIDALGO",
-    "sexo": "M",
-    "edad": 24,
-    "inicioSintomas": "20/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 530,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 29,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 531,
+    "nCaso": 368,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 39,
@@ -5310,57 +3680,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 532,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 26,
-    "inicioSintomas": "20/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 533,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 36,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 534,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 27,
-    "inicioSintomas": "20/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 535,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 22,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 536,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 21,
-    "inicioSintomas": "20/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 537,
+    "nCaso": 369,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 41,
@@ -5370,7 +3690,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 538,
+    "nCaso": 370,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 51,
@@ -5380,17 +3700,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 539,
-    "estado": "HIDALGO",
-    "sexo": "F",
-    "edad": 24,
-    "inicioSintomas": "20/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 540,
+    "nCaso": 371,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 27,
@@ -5400,7 +3710,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 541,
+    "nCaso": 372,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 22,
@@ -5410,7 +3720,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 542,
+    "nCaso": 373,
     "estado": "PUEBLA",
     "sexo": "F",
     "edad": 42,
@@ -5420,7 +3730,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 543,
+    "nCaso": 374,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 35,
@@ -5430,7 +3740,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 544,
+    "nCaso": 375,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 32,
@@ -5440,7 +3750,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 545,
+    "nCaso": 376,
     "estado": "AGUASCALIENTES",
     "sexo": "F",
     "edad": 30,
@@ -5450,7 +3760,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 546,
+    "nCaso": 377,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 58,
@@ -5460,7 +3770,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 547,
+    "nCaso": 378,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 17,
@@ -5470,7 +3780,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 548,
+    "nCaso": 379,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 70,
@@ -5480,7 +3790,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 549,
+    "nCaso": 380,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 24,
@@ -5490,7 +3800,7 @@
     "llegadaMx": "20/03/2020"
   },
   {
-    "nCaso": 550,
+    "nCaso": 381,
     "estado": "BAJA CALIFORNIA",
     "sexo": "F",
     "edad": 27,
@@ -5500,17 +3810,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 551,
-    "estado": "QUERETARO",
-    "sexo": "M",
-    "edad": 32,
-    "inicioSintomas": "20/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "06/03/2020"
-  },
-  {
-    "nCaso": 552,
+    "nCaso": 382,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 66,
@@ -5520,7 +3820,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 553,
+    "nCaso": 383,
     "estado": "BAJA CALIFORNIA",
     "sexo": "F",
     "edad": 28,
@@ -5530,27 +3830,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 554,
-    "estado": "VERACRUZ",
-    "sexo": "F",
-    "edad": 3,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "09/03/2020"
-  },
-  {
-    "nCaso": 555,
-    "estado": "QUERETARO",
-    "sexo": "F",
-    "edad": 60,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "10/03/2020"
-  },
-  {
-    "nCaso": 556,
+    "nCaso": 384,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 23,
@@ -5560,17 +3840,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 557,
-    "estado": "COAHUILA",
-    "sexo": "M",
-    "edad": 42,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 558,
+    "nCaso": 385,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 45,
@@ -5580,7 +3850,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 559,
+    "nCaso": 386,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 31,
@@ -5590,7 +3860,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 560,
+    "nCaso": 387,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 72,
@@ -5600,7 +3870,7 @@
     "llegadaMx": "19/03/2020"
   },
   {
-    "nCaso": 561,
+    "nCaso": 388,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 49,
@@ -5610,7 +3880,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 562,
+    "nCaso": 389,
     "estado": "GUANAJUATO",
     "sexo": "M",
     "edad": 38,
@@ -5620,7 +3890,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 563,
+    "nCaso": 390,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 40,
@@ -5630,17 +3900,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 564,
-    "estado": "COAHUILA",
-    "sexo": "F",
-    "edad": 96,
-    "inicioSintomas": "01/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 565,
+    "nCaso": 391,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 33,
@@ -5650,17 +3910,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 566,
-    "estado": "TLAXCALA",
-    "sexo": "M",
-    "edad": 36,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 567,
+    "nCaso": 392,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 70,
@@ -5670,7 +3920,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 568,
+    "nCaso": 393,
     "estado": "COAHUILA",
     "sexo": "F",
     "edad": 41,
@@ -5680,27 +3930,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 569,
-    "estado": "MORELOS",
-    "sexo": "M",
-    "edad": 57,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 570,
-    "estado": "TLAXCALA",
-    "sexo": "F",
-    "edad": 31,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 571,
+    "nCaso": 394,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 43,
@@ -5710,7 +3940,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 572,
+    "nCaso": 395,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 37,
@@ -5720,7 +3950,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 573,
+    "nCaso": 396,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 64,
@@ -5730,7 +3960,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 574,
+    "nCaso": 397,
     "estado": "SAN LUIS POTOSÍ",
     "sexo": "M",
     "edad": 13,
@@ -5740,7 +3970,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 575,
+    "nCaso": 398,
     "estado": "GUANAJUATO",
     "sexo": "F",
     "edad": 27,
@@ -5750,7 +3980,7 @@
     "llegadaMx": "18/03/2020"
   },
   {
-    "nCaso": 576,
+    "nCaso": 399,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 26,
@@ -5760,7 +3990,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 577,
+    "nCaso": 400,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 36,
@@ -5770,7 +4000,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 578,
+    "nCaso": 401,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 27,
@@ -5780,17 +4010,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 579,
-    "estado": "YUCATÁN",
-    "sexo": "M",
-    "edad": 39,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 580,
+    "nCaso": 402,
     "estado": "ZACATECAS",
     "sexo": "M",
     "edad": 41,
@@ -5800,17 +4020,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 581,
-    "estado": "YUCATÁN",
-    "sexo": "M",
-    "edad": 0,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 582,
+    "nCaso": 403,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 69,
@@ -5820,7 +4030,7 @@
     "llegadaMx": "17/03/2020"
   },
   {
-    "nCaso": 583,
+    "nCaso": 404,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 47,
@@ -5830,7 +4040,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 584,
+    "nCaso": 405,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 42,
@@ -5840,7 +4050,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 585,
+    "nCaso": 406,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 38,
@@ -5850,7 +4060,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 586,
+    "nCaso": 407,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 28,
@@ -5860,7 +4070,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 587,
+    "nCaso": 408,
     "estado": "TLAXCALA",
     "sexo": "F",
     "edad": 25,
@@ -5870,7 +4080,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 588,
+    "nCaso": 409,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 43,
@@ -5880,27 +4090,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 589,
-    "estado": "JALISCO",
-    "sexo": "F",
-    "edad": 23,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 590,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 24,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "17/03/2020"
-  },
-  {
-    "nCaso": 591,
+    "nCaso": 410,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 54,
@@ -5910,7 +4100,7 @@
     "llegadaMx": "06/03/2020"
   },
   {
-    "nCaso": 592,
+    "nCaso": 411,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 32,
@@ -5920,37 +4110,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 593,
-    "estado": "CIUDAD DE MÉXICO",
-    "sexo": "F",
-    "edad": 42,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 594,
-    "estado": "ZACATECAS",
-    "sexo": "F",
-    "edad": 48,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 595,
-    "estado": "SONORA",
-    "sexo": "M",
-    "edad": 29,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "19/03/2020"
-  },
-  {
-    "nCaso": 596,
+    "nCaso": 412,
     "estado": "SINALOA",
     "sexo": "F",
     "edad": 21,
@@ -5960,7 +4120,7 @@
     "llegadaMx": "20/03/2020"
   },
   {
-    "nCaso": 597,
+    "nCaso": 413,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 24,
@@ -5970,27 +4130,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 598,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 46,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 599,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 14,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 600,
+    "nCaso": 414,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 6,
@@ -6000,7 +4140,7 @@
     "llegadaMx": "20/03/2020"
   },
   {
-    "nCaso": 601,
+    "nCaso": 415,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 60,
@@ -6010,7 +4150,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 602,
+    "nCaso": 416,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 55,
@@ -6020,7 +4160,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 603,
+    "nCaso": 417,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 36,
@@ -6030,7 +4170,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 604,
+    "nCaso": 418,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 19,
@@ -6040,17 +4180,7 @@
     "llegadaMx": "16/03/2020"
   },
   {
-    "nCaso": 605,
-    "estado": "BAJA CALIFORNIA",
-    "sexo": "F",
-    "edad": 49,
-    "inicioSintomas": "12/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 606,
+    "nCaso": 419,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 27,
@@ -6060,7 +4190,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 607,
+    "nCaso": 420,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 31,
@@ -6070,27 +4200,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 608,
-    "estado": "ZACATECAS",
-    "sexo": "M",
-    "edad": 45,
-    "inicioSintomas": "19/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 609,
-    "estado": "CIUDAD DE MÉXICO",
-    "sexo": "M",
-    "edad": 29,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Japón",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 610,
+    "nCaso": 421,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 31,
@@ -6100,7 +4210,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 611,
+    "nCaso": 422,
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 14,
@@ -6110,7 +4220,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 612,
+    "nCaso": 423,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 33,
@@ -6120,7 +4230,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 613,
+    "nCaso": 424,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 57,
@@ -6130,7 +4240,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 614,
+    "nCaso": 425,
     "estado": "TABASCO",
     "sexo": "F",
     "edad": 62,
@@ -6140,7 +4250,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 615,
+    "nCaso": 426,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 33,
@@ -6150,7 +4260,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 616,
+    "nCaso": 427,
     "estado": "SINALOA",
     "sexo": "F",
     "edad": 16,
@@ -6160,7 +4270,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 617,
+    "nCaso": 428,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 29,
@@ -6170,7 +4280,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 618,
+    "nCaso": 429,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 33,
@@ -6180,17 +4290,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 619,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 15,
-    "inicioSintomas": "15/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "20/03/2020"
-  },
-  {
-    "nCaso": 620,
+    "nCaso": 430,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 41,
@@ -6200,7 +4300,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 621,
+    "nCaso": 431,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 76,
@@ -6210,7 +4310,7 @@
     "llegadaMx": "11/03/2020"
   },
   {
-    "nCaso": 622,
+    "nCaso": 432,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 34,
@@ -6220,7 +4320,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 623,
+    "nCaso": 433,
     "estado": "TABASCO",
     "sexo": "M",
     "edad": 60,
@@ -6230,7 +4330,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 624,
+    "nCaso": 434,
     "estado": "MICHOACÁN",
     "sexo": "F",
     "edad": 48,
@@ -6240,7 +4340,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 625,
+    "nCaso": 435,
     "estado": "ZACATECAS",
     "sexo": "M",
     "edad": 28,
@@ -6250,7 +4350,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 626,
+    "nCaso": 436,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 19,
@@ -6260,7 +4360,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 627,
+    "nCaso": 437,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 42,
@@ -6270,7 +4370,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 628,
+    "nCaso": 438,
     "estado": "CHIAPAS",
     "sexo": "M",
     "edad": 19,
@@ -6280,17 +4380,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 629,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 62,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "19/03/2020"
-  },
-  {
-    "nCaso": 630,
+    "nCaso": 439,
     "estado": "MICHOACÁN",
     "sexo": "M",
     "edad": 58,
@@ -6300,37 +4390,7 @@
     "llegadaMx": "15/03/2020"
   },
   {
-    "nCaso": 631,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 24,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "15/03/2020"
-  },
-  {
-    "nCaso": 632,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 66,
-    "inicioSintomas": "17/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "19/03/2020"
-  },
-  {
-    "nCaso": 633,
-    "estado": "YUCATÁN",
-    "sexo": "M",
-    "edad": 40,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "11/03/2020"
-  },
-  {
-    "nCaso": 634,
+    "nCaso": 440,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 52,
@@ -6340,17 +4400,7 @@
     "llegadaMx": "03/03/2020"
   },
   {
-    "nCaso": 635,
-    "estado": "YUCATÁN",
-    "sexo": "F",
-    "edad": 23,
-    "inicioSintomas": "16/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 636,
+    "nCaso": 441,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 28,
@@ -6360,17 +4410,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 637,
-    "estado": "MICHOACÁN",
-    "sexo": "M",
-    "edad": 31,
-    "inicioSintomas": "13/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "12/03/2020"
-  },
-  {
-    "nCaso": 638,
+    "nCaso": 442,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 42,
@@ -6380,17 +4420,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 639,
-    "estado": "YUCATÁN",
-    "sexo": "F",
-    "edad": 42,
-    "inicioSintomas": "18/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Francia",
-    "llegadaMx": "18/03/2020"
-  },
-  {
-    "nCaso": 640,
+    "nCaso": 443,
     "estado": "QUINTANA ROO",
     "sexo": "M",
     "edad": 44,
@@ -6400,7 +4430,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 641,
+    "nCaso": 444,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 48,
@@ -6410,7 +4440,3057 @@
     "llegadaMx": "03/03/2020"
   },
   {
+    "nCaso": 445,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 49,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 446,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "F",
+    "edad": 48,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 447,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": 23,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 448,
+    "estado": "COAHUILA",
+    "sexo": "F",
+    "edad": 30,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 449,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 38,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 450,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "F",
+    "edad": 21,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 451,
+    "estado": "MICHOACÁN",
+    "sexo": "F",
+    "edad": 23,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 452,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 46,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 453,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 26,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "13/03/2020"
+  },
+  {
+    "nCaso": 454,
+    "estado": "QUINTANA ROO",
+    "sexo": "M",
+    "edad": 44,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 455,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 34,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 456,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "F",
+    "edad": 33,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 457,
+    "estado": "PUEBLA",
+    "sexo": "M",
+    "edad": 56,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 458,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 47,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "01/03/2020"
+  },
+  {
+    "nCaso": 459,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 49,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 460,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": 37,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 461,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 48,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 462,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 33,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 463,
+    "estado": "NUEVO LEÓN",
+    "sexo": "F",
+    "edad": 40,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 464,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 465,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 56,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 466,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 23,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 467,
+    "estado": "PUEBLA",
+    "sexo": "F",
+    "edad": 74,
+    "inicioSintomas": "20/02/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "20/03/2020"
+  },
+  {
+    "nCaso": 468,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 46,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 469,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": 38,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 470,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 22,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 471,
+    "estado": "MICHOACÁN",
+    "sexo": "F",
+    "edad": 50,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 472,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 48,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 473,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 46,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 474,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 65,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 475,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 21,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 476,
+    "estado": "HIDALGO",
+    "sexo": "F",
+    "edad": 37,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 477,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 43,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "20/03/2020"
+  },
+  {
+    "nCaso": 478,
+    "estado": "MICHOACÁN",
+    "sexo": "M",
+    "edad": 56,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 479,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 27,
+    "inicioSintomas": "08/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "07/03/2020"
+  },
+  {
+    "nCaso": 480,
+    "estado": "HIDALGO",
+    "sexo": "F",
+    "edad": 40,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "13/03/2020"
+  },
+  {
+    "nCaso": 481,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 9,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 482,
+    "estado": "PUEBLA",
+    "sexo": "M",
+    "edad": 20,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 483,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 484,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "10/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 485,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 7,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 486,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": 32,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 487,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 44,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 488,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 20,
+    "inicioSintomas": "08/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "07/03/2020"
+  },
+  {
+    "nCaso": 489,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 12,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 490,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 44,
+    "inicioSintomas": "11/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 491,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 42,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 492,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 33,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 493,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 494,
+    "estado": "MÉXICO",
+    "sexo": "M",
+    "edad": 49,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 495,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 55,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 496,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 30,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 497,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 73,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Italia",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 498,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 50,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 499,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 43,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 500,
+    "estado": "TABASCO",
+    "sexo": "M",
+    "edad": 28,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 501,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 31,
+    "inicioSintomas": "11/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 502,
+    "estado": "QUERETARO",
+    "sexo": "F",
+    "edad": 28,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 503,
+    "estado": "AGUASCALIENTES",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 504,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 64,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 505,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 24,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 506,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 47,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 507,
+    "estado": "MÉXICO",
+    "sexo": "M",
+    "edad": 24,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 508,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "M",
+    "edad": 18,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "10/03/2020"
+  },
+  {
+    "nCaso": 509,
+    "estado": "CHIAPAS",
+    "sexo": "F",
+    "edad": 24,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 510,
+    "estado": "AGUASCALIENTES",
+    "sexo": "F",
+    "edad": 22,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 511,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 34,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 512,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 42,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 513,
+    "estado": "PUEBLA",
+    "sexo": "M",
+    "edad": 44,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "20/03/2020"
+  },
+  {
+    "nCaso": 514,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 29,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 515,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 41,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 516,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 42,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 517,
+    "estado": "CHIAPAS",
+    "sexo": "F",
+    "edad": 54,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 518,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 519,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 38,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 520,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "M",
+    "edad": 25,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 521,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": 70,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 522,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 34,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 523,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 23,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 524,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 14,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 525,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 3,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "12/03/2020"
+  },
+  {
+    "nCaso": 526,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 39,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 527,
+    "estado": "MÉXICO",
+    "sexo": "M",
+    "edad": 60,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "12/03/2020"
+  },
+  {
+    "nCaso": 528,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 37,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 529,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 20,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 530,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": 45,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 531,
+    "estado": "CHIAPAS",
+    "sexo": "F",
+    "edad": 41,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 532,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 26,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 533,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 20,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 534,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 51,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 535,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "12/03/2020"
+  },
+  {
+    "nCaso": 536,
+    "estado": "CHIAPAS",
+    "sexo": "M",
+    "edad": 48,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 537,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 28,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "09/03/2020"
+  },
+  {
+    "nCaso": 538,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 539,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 56,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 540,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 37,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 541,
+    "estado": "PUEBLA",
+    "sexo": "F",
+    "edad": 39,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "13/03/2020"
+  },
+  {
+    "nCaso": 542,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 29,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 543,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "F",
+    "edad": 47,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 544,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 24,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 545,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 53,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 546,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": 72,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 547,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 29,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 548,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 48,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 549,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 25,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 550,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "F",
+    "edad": 41,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 551,
+    "estado": "OAXACA",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 552,
+    "estado": "TABASCO",
+    "sexo": "F",
+    "edad": 57,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 553,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": 17,
+    "inicioSintomas": "11/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Alemania",
+    "llegadaMx": "20/03/2020"
+  },
+  {
+    "nCaso": 554,
+    "estado": "VERACRUZ",
+    "sexo": "F",
+    "edad": 26,
+    "inicioSintomas": "25/02/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 555,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "F",
+    "edad": 36,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 556,
+    "estado": "AGUASCALIENTES",
+    "sexo": "F",
+    "edad": 55,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 557,
+    "estado": "COLIMA",
+    "sexo": "M",
+    "edad": 56,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "12/03/2020"
+  },
+  {
+    "nCaso": 558,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": 35,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 559,
+    "estado": "NUEVO LEÓN",
+    "sexo": "F",
+    "edad": 63,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 560,
+    "estado": "NUEVO LEÓN",
+    "sexo": "M",
+    "edad": 50,
+    "inicioSintomas": "11/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 561,
+    "estado": "PUEBLA",
+    "sexo": "M",
+    "edad": 45,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "03/03/2020"
+  },
+  {
+    "nCaso": 562,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "F",
+    "edad": 23,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 563,
+    "estado": "AGUASCALIENTES",
+    "sexo": "M",
+    "edad": 46,
+    "inicioSintomas": "06/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "07/03/2020"
+  },
+  {
+    "nCaso": 564,
+    "estado": "AGUASCALIENTES",
+    "sexo": "F",
+    "edad": 35,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 565,
+    "estado": "AGUASCALIENTES",
+    "sexo": "F",
+    "edad": 55,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 566,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 28,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 567,
+    "estado": "AGUASCALIENTES",
+    "sexo": "M",
+    "edad": 35,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 568,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 50,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "12/03/2020"
+  },
+  {
+    "nCaso": 569,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 22,
+    "inicioSintomas": "10/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 570,
+    "estado": "AGUASCALIENTES",
+    "sexo": "M",
+    "edad": 49,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 571,
+    "estado": "QUERETARO",
+    "sexo": "M",
+    "edad": 37,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 572,
+    "estado": "AGUASCALIENTES",
+    "sexo": "M",
+    "edad": 25,
+    "inicioSintomas": "10/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 573,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 17,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 574,
+    "estado": "QUERETARO",
+    "sexo": "M",
+    "edad": 6,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 575,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 26,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 576,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 22,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 577,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "M",
+    "edad": 51,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 578,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 45,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 579,
+    "estado": "QUERETARO",
+    "sexo": "F",
+    "edad": 12,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 580,
+    "estado": "SONORA",
+    "sexo": "F",
+    "edad": 42,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 581,
+    "estado": "VERACRUZ",
+    "sexo": "F",
+    "edad": 18,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "21/03/2020"
+  },
+  {
+    "nCaso": 582,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 583,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 33,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "02/03/2020"
+  },
+  {
+    "nCaso": 584,
+    "estado": "CAMPECHE",
+    "sexo": "M",
+    "edad": 20,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 585,
+    "estado": "GUERRERO",
+    "sexo": "F",
+    "edad": 36,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 586,
+    "estado": "QUERETARO",
+    "sexo": "F",
+    "edad": 35,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 587,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 28,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 588,
+    "estado": "COAHUILA",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "21/03/2020"
+  },
+  {
+    "nCaso": 589,
+    "estado": "TABASCO",
+    "sexo": "F",
+    "edad": 44,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "11/03/2020"
+  },
+  {
+    "nCaso": 590,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 591,
+    "estado": "COAHUILA",
+    "sexo": "M",
+    "edad": 83,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 592,
+    "estado": "SINALOA",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 593,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "07/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 594,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 6,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "02/03/2020"
+  },
+  {
+    "nCaso": 595,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 37,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 596,
+    "estado": "COAHUILA",
+    "sexo": "F",
+    "edad": 59,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "21/03/2020"
+  },
+  {
+    "nCaso": 597,
+    "estado": "TABASCO",
+    "sexo": "M",
+    "edad": 47,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "12/03/2020"
+  },
+  {
+    "nCaso": 598,
+    "estado": "QUERETARO",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 599,
+    "estado": "COAHUILA",
+    "sexo": "M",
+    "edad": 64,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "21/03/2020"
+  },
+  {
+    "nCaso": 600,
+    "estado": "BAJA CALIFORNIA SUR",
+    "sexo": "M",
+    "edad": 36,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "01/03/2020"
+  },
+  {
+    "nCaso": 601,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 59,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 602,
+    "estado": "SONORA",
+    "sexo": "F",
+    "edad": 61,
+    "inicioSintomas": "10/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 603,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 34,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "02/03/2020"
+  },
+  {
+    "nCaso": 604,
+    "estado": "SINALOA",
+    "sexo": "F",
+    "edad": 60,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 605,
+    "estado": "TABASCO",
+    "sexo": "F",
+    "edad": 24,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 606,
+    "estado": "COAHUILA",
+    "sexo": "M",
+    "edad": 17,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "21/03/2020"
+  },
+  {
+    "nCaso": 607,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 33,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 608,
+    "estado": "QUINTANA ROO",
+    "sexo": "F",
+    "edad": 31,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "13/03/2020"
+  },
+  {
+    "nCaso": 609,
+    "estado": "AGUASCALIENTES",
+    "sexo": "F",
+    "edad": 53,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 610,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "F",
+    "edad": 48,
+    "inicioSintomas": "09/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "04/03/2020"
+  },
+  {
+    "nCaso": 611,
+    "estado": "BAJA CALIFORNIA SUR",
+    "sexo": "F",
+    "edad": 26,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 612,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 4,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "02/03/2020"
+  },
+  {
+    "nCaso": 613,
+    "estado": "QUINTANA ROO",
+    "sexo": "F",
+    "edad": 21,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 614,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 1,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "02/03/2020"
+  },
+  {
+    "nCaso": 615,
+    "estado": "AGUASCALIENTES",
+    "sexo": "F",
+    "edad": 31,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 616,
+    "estado": "BAJA CALIFORNIA SUR",
+    "sexo": "F",
+    "edad": 43,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "01/03/2020"
+  },
+  {
+    "nCaso": 617,
+    "estado": "QUINTANA ROO",
+    "sexo": "F",
+    "edad": 19,
+    "inicioSintomas": "11/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "09/03/2020"
+  },
+  {
+    "nCaso": 618,
+    "estado": "QUINTANA ROO",
+    "sexo": "F",
+    "edad": 31,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 619,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 25,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 620,
+    "estado": "AGUASCALIENTES",
+    "sexo": "F",
+    "edad": 47,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 621,
+    "estado": "AGUASCALIENTES",
+    "sexo": "M",
+    "edad": 35,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 622,
+    "estado": "QUINTANA ROO",
+    "sexo": "F",
+    "edad": 35,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "13/03/2020"
+  },
+  {
+    "nCaso": 623,
+    "estado": "QUINTANA ROO",
+    "sexo": "M",
+    "edad": 48,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "13/03/2020"
+  },
+  {
+    "nCaso": 624,
+    "estado": "QUINTANA ROO",
+    "sexo": "F",
+    "edad": 60,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Alemania",
+    "llegadaMx": "13/03/2020"
+  },
+  {
+    "nCaso": 625,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "F",
+    "edad": 19,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 626,
+    "estado": "HIDALGO",
+    "sexo": "F",
+    "edad": 48,
+    "inicioSintomas": "09/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 627,
+    "estado": "HIDALGO",
+    "sexo": "F",
+    "edad": 16,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 628,
+    "estado": "HIDALGO",
+    "sexo": "M",
+    "edad": 17,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 629,
+    "estado": "HIDALGO",
+    "sexo": "F",
+    "edad": 19,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 630,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "M",
+    "edad": 15,
+    "inicioSintomas": "11/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "20/03/2020"
+  },
+  {
+    "nCaso": 631,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 43,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 632,
+    "estado": "QUINTANA ROO",
+    "sexo": "F",
+    "edad": 35,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 633,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 24,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 634,
+    "estado": "QUINTANA ROO",
+    "sexo": "M",
+    "edad": 47,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 635,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "M",
+    "edad": 46,
+    "inicioSintomas": "11/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 636,
+    "estado": "BAJA CALIFORNIA SUR",
+    "sexo": "M",
+    "edad": 54,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "06/03/2020"
+  },
+  {
+    "nCaso": 637,
+    "estado": "GUANAJUATO",
+    "sexo": "M",
+    "edad": 24,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 638,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 24,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 639,
+    "estado": "QUINTANA ROO",
+    "sexo": "F",
+    "edad": 28,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "20/03/2020"
+  },
+  {
+    "nCaso": 640,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "F",
+    "edad": 35,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "12/03/2020"
+  },
+  {
+    "nCaso": 641,
+    "estado": "BAJA CALIFORNIA SUR",
+    "sexo": "M",
+    "edad": 55,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "15/03/2020"
+  },
+  {
     "nCaso": 642,
+    "estado": "COAHUILA",
+    "sexo": "F",
+    "edad": 74,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 643,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "M",
+    "edad": 36,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 644,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 42,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "09/03/2020"
+  },
+  {
+    "nCaso": 645,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "F",
+    "edad": 31,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 646,
+    "estado": "BAJA CALIFORNIA SUR",
+    "sexo": "F",
+    "edad": 72,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 647,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 46,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 648,
+    "estado": "BAJA CALIFORNIA",
+    "sexo": "F",
+    "edad": 45,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 649,
+    "estado": "BAJA CALIFORNIA SUR",
+    "sexo": "F",
+    "edad": 33,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "07/03/2020"
+  },
+  {
+    "nCaso": 650,
+    "estado": "QUERETARO",
+    "sexo": "M",
+    "edad": 37,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 651,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 55,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 652,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 20,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "20/03/2020"
+  },
+  {
+    "nCaso": 653,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 28,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Japón",
+    "llegadaMx": "09/03/2020"
+  },
+  {
+    "nCaso": 654,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 69,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 655,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 23,
+    "inicioSintomas": "03/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "03/03/2020"
+  },
+  {
+    "nCaso": 656,
+    "estado": "TAMAULIPAS",
+    "sexo": "M",
+    "edad": 63,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "10/03/2020"
+  },
+  {
+    "nCaso": 657,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 24,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 658,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 42,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 659,
+    "estado": "TLAXCALA",
+    "sexo": "M",
+    "edad": 52,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "13/03/2020"
+  },
+  {
+    "nCaso": 660,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 661,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 662,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 52,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 663,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 1,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 664,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 32,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 665,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 31,
+    "inicioSintomas": "09/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 666,
+    "estado": "MÉXICO",
+    "sexo": "M",
+    "edad": 41,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 667,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 46,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "02/03/2020"
+  },
+  {
+    "nCaso": 668,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 27,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 669,
+    "estado": "MÉXICO",
+    "sexo": "M",
+    "edad": 6,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 670,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 33,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 671,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 672,
+    "estado": "COAHUILA",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 673,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 37,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 674,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 675,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 51,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "12/03/2020"
+  },
+  {
+    "nCaso": 676,
+    "estado": "TLAXCALA",
+    "sexo": "M",
+    "edad": 58,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "06/03/2020"
+  },
+  {
+    "nCaso": 677,
+    "estado": "QUERETARO",
+    "sexo": "M",
+    "edad": 46,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 678,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 3,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 679,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 37,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 680,
+    "estado": "COAHUILA",
+    "sexo": "M",
+    "edad": 25,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 681,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 34,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 682,
+    "estado": "TLAXCALA",
+    "sexo": "M",
+    "edad": 31,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 683,
+    "estado": "QUERETARO",
+    "sexo": "F",
+    "edad": 34,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 684,
+    "estado": "SINALOA",
+    "sexo": "M",
+    "edad": 37,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 685,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 57,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 686,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 40,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 687,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 25,
+    "inicioSintomas": "09/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "26/02/2020"
+  },
+  {
+    "nCaso": 688,
+    "estado": "QUERETARO",
+    "sexo": "F",
+    "edad": 30,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 689,
+    "estado": "COAHUILA",
+    "sexo": "F",
+    "edad": 30,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 690,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 4,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 691,
+    "estado": "COAHUILA",
+    "sexo": "F",
+    "edad": 39,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "12/03/2020"
+  },
+  {
+    "nCaso": 692,
+    "estado": "ZACATECAS",
+    "sexo": "M",
+    "edad": 40,
+    "inicioSintomas": "09/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 693,
+    "estado": "TLAXCALA",
+    "sexo": "M",
+    "edad": 30,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 694,
+    "estado": "COAHUILA",
+    "sexo": "F",
+    "edad": 25,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 695,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 29,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 696,
+    "estado": "MÉXICO",
+    "sexo": "M",
+    "edad": 73,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 697,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 27,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 698,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 21,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "28/02/2020"
+  },
+  {
+    "nCaso": 699,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 47,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 700,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 42,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 701,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 28,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 702,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 33,
+    "inicioSintomas": "10/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 703,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "10/03/2020"
+  },
+  {
+    "nCaso": 704,
+    "estado": "CHIHUAHUA",
+    "sexo": "F",
+    "edad": 26,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 705,
+    "estado": "MÉXICO",
+    "sexo": "F",
+    "edad": 40,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 706,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 48,
+    "inicioSintomas": "01/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 707,
+    "estado": "TAMAULIPAS",
+    "sexo": "M",
+    "edad": 29,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 708,
+    "estado": "PUEBLA",
+    "sexo": "M",
+    "edad": 34,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 709,
+    "estado": "COAHUILA",
+    "sexo": "M",
+    "edad": 26,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 710,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 51,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 711,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 29,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 712,
+    "estado": "ZACATECAS",
+    "sexo": "M",
+    "edad": 15,
+    "inicioSintomas": "09/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 713,
+    "estado": "MICHOACÁN",
+    "sexo": "M",
+    "edad": 49,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 714,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 36,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 715,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": 66,
+    "inicioSintomas": "11/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 716,
+    "estado": "VERACRUZ",
+    "sexo": "F",
+    "edad": 40,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 717,
+    "estado": "COAHUILA",
+    "sexo": "M",
+    "edad": 45,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 718,
+    "estado": "CHIHUAHUA",
+    "sexo": "F",
+    "edad": 41,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Alemania",
+    "llegadaMx": "12/03/2020"
+  },
+  {
+    "nCaso": 719,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 40,
+    "inicioSintomas": "10/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "07/03/2020"
+  },
+  {
+    "nCaso": 720,
+    "estado": "COAHUILA",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "04/03/2020"
+  },
+  {
+    "nCaso": 721,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 26,
+    "inicioSintomas": "08/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 722,
+    "estado": "COAHUILA",
+    "sexo": "F",
+    "edad": 88,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 723,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 25,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "06/03/2020"
+  },
+  {
+    "nCaso": 724,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 60,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 725,
+    "estado": "VERACRUZ",
+    "sexo": "M",
+    "edad": 46,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "14/03/2020"
+  },
+  {
+    "nCaso": 726,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 32,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 727,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 48,
+    "inicioSintomas": "16/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 728,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 56,
+    "inicioSintomas": "04/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Alemania",
+    "llegadaMx": "04/03/2020"
+  },
+  {
+    "nCaso": 729,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 32,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 730,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 40,
+    "inicioSintomas": "17/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "29/02/2020"
+  },
+  {
+    "nCaso": 731,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 35,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "16/03/2020"
+  },
+  {
+    "nCaso": 732,
+    "estado": "VERACRUZ",
+    "sexo": "M",
+    "edad": 40,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 733,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 0,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 734,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 10,
+    "inicioSintomas": "13/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 735,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 29,
+    "inicioSintomas": "08/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 736,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 69,
+    "inicioSintomas": "21/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "21/03/2020"
+  },
+  {
+    "nCaso": 737,
+    "estado": "VERACRUZ",
+    "sexo": "F",
+    "edad": 30,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "España",
+    "llegadaMx": "15/03/2020"
+  },
+  {
+    "nCaso": 738,
+    "estado": "GUANAJUATO",
+    "sexo": "F",
+    "edad": 26,
+    "inicioSintomas": "09/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "09/03/2020"
+  },
+  {
+    "nCaso": 739,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 20,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Francia",
+    "llegadaMx": "28/02/2020"
+  },
+  {
+    "nCaso": 740,
+    "estado": "JALISCO",
+    "sexo": "F",
+    "edad": 9,
+    "inicioSintomas": "15/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 741,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 53,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 742,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": 60,
+    "inicioSintomas": "14/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 743,
+    "estado": "JALISCO",
+    "sexo": "M",
+    "edad": 66,
+    "inicioSintomas": "19/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "10/03/2020"
+  },
+  {
+    "nCaso": 744,
+    "estado": "OAXACA",
+    "sexo": "F",
+    "edad": 34,
+    "inicioSintomas": "20/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Italia",
+    "llegadaMx": "17/03/2020"
+  },
+  {
+    "nCaso": 745,
+    "estado": "VERACRUZ",
+    "sexo": "M",
+    "edad": 43,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "13/03/2020"
+  },
+  {
+    "nCaso": 746,
+    "estado": "MICHOACÁN",
+    "sexo": "F",
+    "edad": 69,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "18/03/2020"
+  },
+  {
+    "nCaso": 747,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "M",
+    "edad": 24,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Alemania",
+    "llegadaMx": "19/03/2020"
+  },
+  {
+    "nCaso": 748,
+    "estado": "VERACRUZ",
+    "sexo": "F",
+    "edad": 39,
+    "inicioSintomas": "12/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Estados Unidos",
+    "llegadaMx": "08/03/2020"
+  },
+  {
+    "nCaso": 749,
+    "estado": "QUERETARO",
+    "sexo": "M",
+    "edad": 42,
+    "inicioSintomas": "18/03/2020",
+    "status": "Sospechoso",
+    "procedencia": "Contacto",
+    "llegadaMx": "NA"
+  },
+  {
+    "nCaso": 750,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 32,
@@ -6420,27 +7500,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 643,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 20,
-    "inicioSintomas": "26/02/2020",
-    "status": "Sospechoso",
-    "procedencia": "Italia",
-    "llegadaMx": "24/02/2020"
-  },
-  {
-    "nCaso": 644,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 32,
-    "inicioSintomas": "26/02/2020",
-    "status": "Sospechoso",
-    "procedencia": "Alemania",
-    "llegadaMx": "28/02/2020"
-  },
-  {
-    "nCaso": 645,
+    "nCaso": 751,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 40,
@@ -6450,7 +7510,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 646,
+    "nCaso": 752,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 50,
@@ -6460,7 +7520,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 647,
+    "nCaso": 753,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 47,
@@ -6470,7 +7530,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 648,
+    "nCaso": 754,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 29,
@@ -6480,7 +7540,7 @@
     "llegadaMx": "14/02/2020"
   },
   {
-    "nCaso": 649,
+    "nCaso": 755,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 25,
@@ -6490,7 +7550,7 @@
     "llegadaMx": "01/03/2020"
   },
   {
-    "nCaso": 650,
+    "nCaso": 756,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 26,
@@ -6500,7 +7560,7 @@
     "llegadaMx": "17/02/2020"
   },
   {
-    "nCaso": 651,
+    "nCaso": 757,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 22,
@@ -6510,7 +7570,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 652,
+    "nCaso": 758,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 21,
@@ -6520,7 +7580,7 @@
     "llegadaMx": "03/03/2020"
   },
   {
-    "nCaso": 653,
+    "nCaso": 759,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 23,
@@ -6530,7 +7590,7 @@
     "llegadaMx": "06/03/2020"
   },
   {
-    "nCaso": 654,
+    "nCaso": 760,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 27,
@@ -6540,7 +7600,7 @@
     "llegadaMx": "29/02/2020"
   },
   {
-    "nCaso": 655,
+    "nCaso": 761,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 33,
@@ -6550,7 +7610,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 656,
+    "nCaso": 762,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 43,
@@ -6560,47 +7620,7 @@
     "llegadaMx": "26/02/2020"
   },
   {
-    "nCaso": 657,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 33,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Italia",
-    "llegadaMx": "29/02/2020"
-  },
-  {
-    "nCaso": 658,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 44,
-    "inicioSintomas": "01/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "España",
-    "llegadaMx": "03/03/2020"
-  },
-  {
-    "nCaso": 659,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 34,
-    "inicioSintomas": "05/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "01/03/2020"
-  },
-  {
-    "nCaso": 660,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 43,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Contacto",
-    "llegadaMx": "NA"
-  },
-  {
-    "nCaso": 661,
+    "nCaso": 763,
     "estado": "QUERETARO",
     "sexo": "M",
     "edad": 36,
@@ -6610,7 +7630,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 662,
+    "nCaso": 764,
     "estado": "NUEVO LEÓN",
     "sexo": "F",
     "edad": 27,
@@ -6620,7 +7640,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 663,
+    "nCaso": 765,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 29,
@@ -6630,7 +7650,7 @@
     "llegadaMx": "29/02/2020"
   },
   {
-    "nCaso": 664,
+    "nCaso": 766,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 23,
@@ -6640,7 +7660,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 665,
+    "nCaso": 767,
     "estado": "YUCATÁN",
     "sexo": "M",
     "edad": 38,
@@ -6650,7 +7670,7 @@
     "llegadaMx": "04/03/2020"
   },
   {
-    "nCaso": 666,
+    "nCaso": 768,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 59,
@@ -6660,7 +7680,7 @@
     "llegadaMx": "28/02/2020"
   },
   {
-    "nCaso": 667,
+    "nCaso": 769,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 30,
@@ -6670,7 +7690,7 @@
     "llegadaMx": "05/03/2020"
   },
   {
-    "nCaso": 668,
+    "nCaso": 770,
     "estado": "PUEBLA",
     "sexo": "M",
     "edad": 26,
@@ -6680,7 +7700,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 669,
+    "nCaso": 771,
     "estado": "COAHUILA",
     "sexo": "M",
     "edad": 61,
@@ -6690,7 +7710,7 @@
     "llegadaMx": "07/03/2020"
   },
   {
-    "nCaso": 670,
+    "nCaso": 772,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 35,
@@ -6700,7 +7720,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 671,
+    "nCaso": 773,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 55,
@@ -6710,7 +7730,7 @@
     "llegadaMx": "29/02/2020"
   },
   {
-    "nCaso": 672,
+    "nCaso": 774,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 50,
@@ -6720,17 +7740,7 @@
     "llegadaMx": "10/03/2020"
   },
   {
-    "nCaso": 673,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 33,
-    "inicioSintomas": "05/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "01/03/2020"
-  },
-  {
-    "nCaso": 674,
+    "nCaso": 775,
     "estado": "AGUASCALIENTES",
     "sexo": "M",
     "edad": 56,
@@ -6740,7 +7750,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 675,
+    "nCaso": 776,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 25,
@@ -6750,7 +7760,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 676,
+    "nCaso": 777,
     "estado": "JALISCO",
     "sexo": "F",
     "edad": 20,
@@ -6760,7 +7770,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 677,
+    "nCaso": 778,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 61,
@@ -6770,7 +7780,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 678,
+    "nCaso": 779,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 21,
@@ -6780,7 +7790,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 679,
+    "nCaso": 780,
     "estado": "MÉXICO",
     "sexo": "F",
     "edad": 23,
@@ -6790,7 +7800,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 680,
+    "nCaso": 781,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 13,
@@ -6800,7 +7810,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 681,
+    "nCaso": 782,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 55,
@@ -6810,7 +7820,7 @@
     "llegadaMx": "09/03/2020"
   },
   {
-    "nCaso": 682,
+    "nCaso": 783,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 37,
@@ -6820,7 +7830,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 683,
+    "nCaso": 784,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 31,
@@ -6830,7 +7840,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 684,
+    "nCaso": 785,
     "estado": "MÉXICO",
     "sexo": "M",
     "edad": 54,
@@ -6840,7 +7850,7 @@
     "llegadaMx": "13/03/2020"
   },
   {
-    "nCaso": 685,
+    "nCaso": 786,
     "estado": "GUERRERO",
     "sexo": "F",
     "edad": 62,
@@ -6850,7 +7860,7 @@
     "llegadaMx": "02/03/2020"
   },
   {
-    "nCaso": 686,
+    "nCaso": 787,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 54,
@@ -6860,7 +7870,7 @@
     "llegadaMx": "12/03/2020"
   },
   {
-    "nCaso": 687,
+    "nCaso": 788,
     "estado": "BAJA CALIFORNIA",
     "sexo": "M",
     "edad": 33,
@@ -6870,7 +7880,7 @@
     "llegadaMx": "08/03/2020"
   },
   {
-    "nCaso": 688,
+    "nCaso": 789,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 35,
@@ -6880,7 +7890,7 @@
     "llegadaMx": "01/03/2020"
   },
   {
-    "nCaso": 689,
+    "nCaso": 790,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
     "edad": 33,
@@ -6890,7 +7900,7 @@
     "llegadaMx": "14/03/2020"
   },
   {
-    "nCaso": 690,
+    "nCaso": 791,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 37,
@@ -6900,17 +7910,7 @@
     "llegadaMx": "NA"
   },
   {
-    "nCaso": 691,
-    "estado": "MÉXICO",
-    "sexo": "F",
-    "edad": 30,
-    "inicioSintomas": "07/02/2020",
-    "status": "Sospechoso",
-    "procedencia": "Singapur",
-    "llegadaMx": "06/03/2020"
-  },
-  {
-    "nCaso": 692,
+    "nCaso": 792,
     "estado": "GUERRERO",
     "sexo": "M",
     "edad": 32,
@@ -6920,53 +7920,13 @@
     "llegadaMx": "01/03/2020"
   },
   {
-    "nCaso": 693,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 30,
-    "inicioSintomas": "06/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Singapur",
-    "llegadaMx": "06/03/2020"
-  },
-  {
-    "nCaso": 694,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 33,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "10/03/2020"
-  },
-  {
-    "nCaso": 695,
+    "nCaso": 793,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 40,
     "inicioSintomas": "09/03/2020",
     "status": "Sospechoso",
     "procedencia": "Italia",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 696,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 15,
-    "inicioSintomas": "08/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
-    "llegadaMx": "08/03/2020"
-  },
-  {
-    "nCaso": 697,
-    "estado": "MÉXICO",
-    "sexo": "M",
-    "edad": 17,
-    "inicioSintomas": "10/03/2020",
-    "status": "Sospechoso",
-    "procedencia": "Estados Unidos",
     "llegadaMx": "08/03/2020"
   }
 ]
