@@ -19,7 +19,7 @@
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "M",
     "edad": 71,
-    "padecimientos": "Diabetes",
+    "padecimientos": "Diabetes e insuficiencia renal",
     "fecha": "23/03/2020",
     "status": "muerte"
   },{
@@ -27,7 +27,7 @@
     "estado": "JALISCO",
     "sexo": "M",
     "edad": 55,
-    "padecimientos": "Diabetes e insuficiencia renal",
+    "padecimientos": "Diabetes",
     "fecha": "23/03/2020",
     "status": "muerte"
   }]
