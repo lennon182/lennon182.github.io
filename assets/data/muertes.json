@@ -30,4 +30,12 @@
     "padecimientos": "Diabetes",
     "fecha": "23/03/2020",
     "status": "muerte"
+  },{
+    "nCaso": 5,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "F",
+    "edad": "NA",
+    "padecimientos": "NA",
+    "fecha": "24/03/2020",
+    "status": "muerte"
   }]
