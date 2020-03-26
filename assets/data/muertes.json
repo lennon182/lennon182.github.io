@@ -34,8 +34,16 @@
     "nCaso": 5,
     "estado": "CIUDAD DE MÉXICO",
     "sexo": "F",
-    "edad": "NA",
-    "padecimientos": "NA",
+    "edad": "NoInfo",
+    "padecimientos": "NoInfo",
     "fecha": "24/03/2020",
+    "status": "muerte"
+  },{
+    "nCaso": 6,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "M",
+    "edad": "70",
+    "padecimientos": "Hipertensión y obesidad",
+    "fecha": "25/03/2020",
     "status": "muerte"
   }]
