@@ -46,4 +46,20 @@
     "padecimientos": "Hipertensión y obesidad",
     "fecha": "25/03/2020",
     "status": "muerte"
+  },{
+    "nCaso": 7,
+    "estado": "QUINTANA ROO",
+    "sexo": "M",
+    "edad": "74",
+    "padecimientos": "Hipertensión, diabetes y tabaquismo,",
+    "fecha": "26/03/2020",
+    "status": "muerte"
+  },{
+    "nCaso": 8,
+    "estado": "JALISCO",
+    "sexo": "NoInfo",
+    "edad": "NoInfo",
+    "padecimientos": "NoInfo",
+    "fecha": "26/03/2020",
+    "status": "muerte"
   }]
