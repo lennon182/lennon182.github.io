@@ -62,4 +62,36 @@
     "padecimientos": "NoInfo",
     "fecha": "26/03/2020",
     "status": "muerte"
+  },{
+    "nCaso": 9,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "NoInfo",
+    "edad": "NoInfo",
+    "padecimientos": "NoInfo",
+    "fecha": "27/03/2020",
+    "status": "muerte"
+  },{
+    "nCaso": 10,
+    "estado": "CIUDAD DE MÉXICO",
+    "sexo": "NoInfo",
+    "edad": "NoInfo",
+    "padecimientos": "NoInfo",
+    "fecha": "27/03/2020",
+    "status": "muerte"
+  }, {
+    "nCaso": 11,
+    "estado": "SAN LUIS POTOSÍ",
+    "sexo": "NoInfo",
+    "edad": "NoInfo",
+    "padecimientos": "NoInfo",
+    "fecha": "27/03/2020",
+    "status": "muerte"
+  },{
+    "nCaso": 11,
+    "estado": "MÉXICO",
+    "sexo": "NoInfo",
+    "edad": "NoInfo",
+    "padecimientos": "NoInfo",
+    "fecha": "27/03/2020",
+    "status": "muerte"
   }]
