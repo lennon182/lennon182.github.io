@@ -1,97 +1,130 @@
-[{
-    "nCaso": 1,
-    "estado": "CIUDAD DE MÉXICO",
-    "sexo": "M",
-    "edad": 41,
-    "padecimientos": "Diabetes",
-    "fecha": "19/03/2020",
-    "status": "muerte"
-  },{
-    "nCaso": 2,
-    "estado": "DURANGO",
-    "sexo": "M",
-    "edad": 74,
-    "padecimientos": "Hipertensión arterial",
-    "fecha": "19/03/2020",
-    "status": "muerte"
-  },{
-    "nCaso": 3,
-    "estado": "CIUDAD DE MÉXICO",
-    "sexo": "M",
-    "edad": 71,
-    "padecimientos": "Diabetes e insuficiencia renal",
-    "fecha": "23/03/2020",
-    "status": "muerte"
-  },{
-    "nCaso": 4,
-    "estado": "JALISCO",
-    "sexo": "M",
-    "edad": 55,
-    "padecimientos": "Diabetes",
-    "fecha": "23/03/2020",
-    "status": "muerte"
-  },{
-    "nCaso": 5,
-    "estado": "CIUDAD DE MÉXICO",
-    "sexo": "F",
-    "edad": "NoInfo",
-    "padecimientos": "NoInfo",
-    "fecha": "24/03/2020",
-    "status": "muerte"
-  },{
-    "nCaso": 6,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "M",
-    "edad": "70",
-    "padecimientos": "Hipertensión y obesidad",
-    "fecha": "25/03/2020",
-    "status": "muerte"
-  },{
-    "nCaso": 7,
-    "estado": "QUINTANA ROO",
-    "sexo": "M",
-    "edad": "74",
-    "padecimientos": "Hipertensión, diabetes y tabaquismo,",
-    "fecha": "26/03/2020",
-    "status": "muerte"
-  },{
-    "nCaso": 8,
-    "estado": "JALISCO",
-    "sexo": "NoInfo",
-    "edad": "NoInfo",
-    "padecimientos": "NoInfo",
-    "fecha": "26/03/2020",
-    "status": "muerte"
-  },{
-    "nCaso": 9,
-    "estado": "CIUDAD DE MÉXICO",
-    "sexo": "NoInfo",
-    "edad": "NoInfo",
-    "padecimientos": "NoInfo",
-    "fecha": "27/03/2020",
-    "status": "muerte"
-  },{
-    "nCaso": 10,
-    "estado": "CIUDAD DE MÉXICO",
-    "sexo": "NoInfo",
-    "edad": "NoInfo",
-    "padecimientos": "NoInfo",
-    "fecha": "27/03/2020",
-    "status": "muerte"
-  }, {
-    "nCaso": 11,
-    "estado": "SAN LUIS POTOSÍ",
-    "sexo": "NoInfo",
-    "edad": "NoInfo",
-    "padecimientos": "NoInfo",
-    "fecha": "27/03/2020",
-    "status": "muerte"
-  },{
-    "nCaso": 11,
-    "estado": "MÉXICO",
-    "sexo": "NoInfo",
-    "edad": "NoInfo",
-    "padecimientos": "NoInfo",
-    "fecha": "27/03/2020",
-    "status": "muerte"
-  }]
+[
+  {
+    "Estado": "AGUASCALIENTES",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "BAJA CALIFORNIA",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "BAJA CALIFORNIA SUR",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "CAMPECHE",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "CHIAPAS",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "CHIHUAHUA",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "CIUDAD DE MÉXICO",
+    "Fallecidos": 7
+  },
+  {
+    "Estado": "COAHUILA",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "COLIMA",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "DURANGO",
+    "Fallecidos": 1
+  },
+  {
+    "Estado": "GUANAJUATO",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "GUERRERO",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "HIDALGO",
+    "Fallecidos": 1
+  },
+  {
+    "Estado": "JALISCO",
+    "Fallecidos": 3
+  },
+  {
+    "Estado": "MICHOACÁN",
+    "Fallecidos": 1
+  },
+  {
+    "Estado": "MORELOS",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "MÉXICO",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "NAYARIT",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "NUEVO LEÓN",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "OAXACA",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "PUEBLA",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "QUERÉTARO",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "QUINTANA ROO",
+    "Fallecidos": 1
+  },
+  {
+    "Estado": "SAN LUIS POTOSÍ",
+    "Fallecidos": 2
+  },
+  {
+    "Estado": "SINALOA",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "SONORA",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "TABASCO",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "TAMAULIPAS",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "TLAXCALA",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "VERACRUZ",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "YUCATÁN",
+    "Fallecidos": 0
+  },
+  {
+    "Estado": "ZACATECAS",
+    "Fallecidos": 0
+  }
+]
