@@ -29,7 +29,7 @@
   },
   {
     "Estado": "COAHUILA",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "COLIMA",
@@ -49,7 +49,7 @@
   },
   {
     "Estado": "HIDALGO",
-    "Fallecidos": 1
+    "Fallecidos": 2
   },
   {
     "Estado": "JALISCO",
@@ -61,7 +61,7 @@
   },
   {
     "Estado": "MORELOS",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "MÉXICO",
@@ -81,7 +81,7 @@
   },
   {
     "Estado": "PUEBLA",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "QUERÉTARO",
