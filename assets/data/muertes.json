@@ -9,7 +9,7 @@
   },
   {
     "Estado": "BAJA CALIFORNIA SUR",
-    "Fallecidos": 0
+    "Fallecidos": 2
   },
   {
     "Estado": "CAMPECHE",
@@ -29,7 +29,7 @@
   },
   {
     "Estado": "COAHUILA",
-    "Fallecidos": 1
+    "Fallecidos": 2
   },
   {
     "Estado": "COLIMA",
@@ -45,7 +45,7 @@
   },
   {
     "Estado": "GUERRERO",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "HIDALGO",
@@ -69,7 +69,7 @@
   },
   {
     "Estado": "NAYARIT",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "NUEVO LEÓN",
@@ -97,7 +97,7 @@
   },
   {
     "Estado": "SINALOA",
-    "Fallecidos": 3
+    "Fallecidos": 4
   },
   {
     "Estado": "SONORA",
@@ -105,7 +105,7 @@
   },
   {
     "Estado": "TABASCO",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "TAMAULIPAS",
@@ -125,6 +125,6 @@
   },
   {
     "Estado": "ZACATECAS",
-    "Fallecidos": 0
+    "Fallecidos": 1
   }
 ]
