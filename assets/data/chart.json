@@ -418,5 +418,11 @@
     "sospechosos": 3827,
     "infectados": 1378,
     "muertes": 37
+  },
+  {
+    "Fecha": "2020-04-02",
+    "sospechosos": 4653,
+    "infectados": 1510,
+    "muertes": 50
   }
 ]

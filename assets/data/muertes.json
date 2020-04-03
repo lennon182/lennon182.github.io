@@ -5,7 +5,7 @@
   },
   {
     "Estado": "BAJA CALIFORNIA",
-    "Fallecidos": 0
+    "Fallecidos": 3
   },
   {
     "Estado": "BAJA CALIFORNIA SUR",
@@ -25,7 +25,7 @@
   },
   {
     "Estado": "CIUDAD DE MÉXICO",
-    "Fallecidos": 8
+    "Fallecidos": 13
   },
   {
     "Estado": "COAHUILA",
@@ -53,7 +53,7 @@
   },
   {
     "Estado": "JALISCO",
-    "Fallecidos": 3
+    "Fallecidos": 4
   },
   {
     "Estado": "MICHOACÁN",
@@ -61,7 +61,7 @@
   },
   {
     "Estado": "MORELOS",
-    "Fallecidos": 1
+    "Fallecidos": 3
   },
   {
     "Estado": "MÉXICO",
@@ -105,7 +105,7 @@
   },
   {
     "Estado": "TABASCO",
-    "Fallecidos": 1
+    "Fallecidos": 3
   },
   {
     "Estado": "TAMAULIPAS",
