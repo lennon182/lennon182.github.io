@@ -5,7 +5,7 @@
   },
   {
     "Estado": "BAJA CALIFORNIA",
-    "Fallecidos": 3
+    "Fallecidos": 5
   },
   {
     "Estado": "BAJA CALIFORNIA SUR",
@@ -25,11 +25,11 @@
   },
   {
     "Estado": "CIUDAD DE MÉXICO",
-    "Fallecidos": 13
+    "Fallecidos": 15
   },
   {
     "Estado": "COAHUILA",
-    "Fallecidos": 2
+    "Fallecidos": 3
   },
   {
     "Estado": "COLIMA",
@@ -53,7 +53,7 @@
   },
   {
     "Estado": "JALISCO",
-    "Fallecidos": 4
+    "Fallecidos": 6
   },
   {
     "Estado": "MICHOACÁN",
@@ -85,7 +85,7 @@
   },
   {
     "Estado": "QUERÉTARO",
-    "Fallecidos": 1
+    "Fallecidos": 2
   },
   {
     "Estado": "QUINTANA ROO",
@@ -97,7 +97,7 @@
   },
   {
     "Estado": "SINALOA",
-    "Fallecidos": 4
+    "Fallecidos": 5
   },
   {
     "Estado": "SONORA",
@@ -117,7 +117,7 @@
   },
   {
     "Estado": "VERACRUZ",
-    "Fallecidos": 1
+    "Fallecidos": 2
   },
   {
     "Estado": "YUCATÁN",
