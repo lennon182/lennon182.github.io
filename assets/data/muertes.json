@@ -25,11 +25,11 @@
   },
   {
     "Estado": "CIUDAD DE MÉXICO",
-    "Fallecidos": 15
+    "Fallecidos": 17
   },
   {
     "Estado": "COAHUILA",
-    "Fallecidos": 3
+    "Fallecidos": 4
   },
   {
     "Estado": "COLIMA",
@@ -37,7 +37,7 @@
   },
   {
     "Estado": "DURANGO",
-    "Fallecidos": 1
+    "Fallecidos": 2
   },
   {
     "Estado": "GUANAJUATO",
@@ -49,7 +49,7 @@
   },
   {
     "Estado": "HIDALGO",
-    "Fallecidos": 3
+    "Fallecidos": 5
   },
   {
     "Estado": "JALISCO",
@@ -65,7 +65,7 @@
   },
   {
     "Estado": "MÉXICO",
-    "Fallecidos": 1
+    "Fallecidos": 3
   },
   {
     "Estado": "NAYARIT",
@@ -73,7 +73,7 @@
   },
   {
     "Estado": "NUEVO LEÓN",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "OAXACA",
@@ -89,7 +89,7 @@
   },
   {
     "Estado": "QUINTANA ROO",
-    "Fallecidos": 1
+    "Fallecidos": 2
   },
   {
     "Estado": "SAN LUIS POTOSÍ",
@@ -97,11 +97,11 @@
   },
   {
     "Estado": "SINALOA",
-    "Fallecidos": 5
+    "Fallecidos": 10
   },
   {
     "Estado": "SONORA",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "TABASCO",
@@ -109,7 +109,7 @@
   },
   {
     "Estado": "TAMAULIPAS",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "TLAXCALA",
@@ -117,7 +117,7 @@
   },
   {
     "Estado": "VERACRUZ",
-    "Fallecidos": 2
+    "Fallecidos": 3
   },
   {
     "Estado": "YUCATÁN",
@@ -125,6 +125,6 @@
   },
   {
     "Estado": "ZACATECAS",
-    "Fallecidos": 1
+    "Fallecidos": 2
   }
 ]
