@@ -5,7 +5,7 @@
   },
   {
     "Estado": "BAJA CALIFORNIA",
-    "Fallecidos": 15
+    "Fallecidos": 16
   },
   {
     "Estado": "BAJA CALIFORNIA SUR",
@@ -21,11 +21,11 @@
   },
   {
     "Estado": "CHIHUAHUA",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "CIUDAD DE MÉXICO",
-    "Fallecidos": 39
+    "Fallecidos": 43
   },
   {
     "Estado": "COAHUILA",
@@ -45,7 +45,7 @@
   },
   {
     "Estado": "GUERRERO",
-    "Fallecidos": 4
+    "Fallecidos": 5
   },
   {
     "Estado": "HIDALGO",
@@ -61,7 +61,7 @@
   },
   {
     "Estado": "MORELOS",
-    "Fallecidos": 5
+    "Fallecidos": 7
   },
   {
     "Estado": "MÉXICO",
@@ -69,11 +69,11 @@
   },
   {
     "Estado": "NAYARIT",
-    "Fallecidos": 1
+    "Fallecidos": 3
   },
   {
     "Estado": "NUEVO LEÓN",
-    "Fallecidos": 4
+    "Fallecidos": 5
   },
   {
     "Estado": "OAXACA",
@@ -81,7 +81,7 @@
   },
   {
     "Estado": "PUEBLA",
-    "Fallecidos": 9
+    "Fallecidos": 10
   },
   {
     "Estado": "QUERÉTARO",
@@ -89,7 +89,7 @@
   },
   {
     "Estado": "QUINTANA ROO",
-    "Fallecidos": 10
+    "Fallecidos": 12
   },
   {
     "Estado": "SAN LUIS POTOSÍ",
@@ -97,15 +97,15 @@
   },
   {
     "Estado": "SINALOA",
-    "Fallecidos": 13
+    "Fallecidos": 15
   },
   {
     "Estado": "SONORA",
-    "Fallecidos": 2
+    "Fallecidos": 4
   },
   {
     "Estado": "TABASCO",
-    "Fallecidos": 8
+    "Fallecidos": 9
   },
   {
     "Estado": "TAMAULIPAS",
