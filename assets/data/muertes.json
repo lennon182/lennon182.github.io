@@ -5,7 +5,7 @@
   },
   {
     "Estado": "BAJA CALIFORNIA",
-    "Fallecidos": 16
+    "Fallecidos": 17
   },
   {
     "Estado": "BAJA CALIFORNIA SUR",
@@ -17,15 +17,15 @@
   },
   {
     "Estado": "CHIAPAS",
-    "Fallecidos": 0
-  },
-  {
-    "Estado": "CHIHUAHUA",
     "Fallecidos": 1
   },
   {
+    "Estado": "CHIHUAHUA",
+    "Fallecidos": 12
+  },
+  {
     "Estado": "CIUDAD DE MÉXICO",
-    "Fallecidos": 43
+    "Fallecidos": 46
   },
   {
     "Estado": "COAHUILA",
@@ -45,7 +45,7 @@
   },
   {
     "Estado": "GUERRERO",
-    "Fallecidos": 5
+    "Fallecidos": 6
   },
   {
     "Estado": "HIDALGO",
@@ -53,11 +53,11 @@
   },
   {
     "Estado": "JALISCO",
-    "Fallecidos": 8
+    "Fallecidos": 9
   },
   {
     "Estado": "MICHOACÁN",
-    "Fallecidos": 5
+    "Fallecidos": 7
   },
   {
     "Estado": "MORELOS",
@@ -65,7 +65,7 @@
   },
   {
     "Estado": "MÉXICO",
-    "Fallecidos": 11
+    "Fallecidos": 16
   },
   {
     "Estado": "NAYARIT",
@@ -77,19 +77,19 @@
   },
   {
     "Estado": "OAXACA",
-    "Fallecidos": 1
-  },
-  {
-    "Estado": "PUEBLA",
-    "Fallecidos": 10
-  },
-  {
-    "Estado": "QUERÉTARO",
     "Fallecidos": 2
   },
   {
+    "Estado": "PUEBLA",
+    "Fallecidos": 15
+  },
+  {
+    "Estado": "QUERÉTARO",
+    "Fallecidos": 3
+  },
+  {
     "Estado": "QUINTANA ROO",
-    "Fallecidos": 12
+    "Fallecidos": 13
   },
   {
     "Estado": "SAN LUIS POTOSÍ",
@@ -97,11 +97,11 @@
   },
   {
     "Estado": "SINALOA",
-    "Fallecidos": 15
+    "Fallecidos": 18
   },
   {
     "Estado": "SONORA",
-    "Fallecidos": 4
+    "Fallecidos": 5
   },
   {
     "Estado": "TABASCO",
@@ -113,7 +113,7 @@
   },
   {
     "Estado": "TLAXCALA",
-    "Fallecidos": 0
+    "Fallecidos": 1
   },
   {
     "Estado": "VERACRUZ",
@@ -121,7 +121,7 @@
   },
   {
     "Estado": "YUCATÁN",
-    "Fallecidos": 3
+    "Fallecidos": 4
   },
   {
     "Estado": "ZACATECAS",
