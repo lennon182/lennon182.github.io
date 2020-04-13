@@ -5,7 +5,7 @@
   },
   {
     "Estado": "BAJA CALIFORNIA",
-    "Fallecidos": 20
+    "Fallecidos": 22
   },
   {
     "Estado": "BAJA CALIFORNIA SUR",
@@ -17,7 +17,7 @@
   },
   {
     "Estado": "CHIAPAS",
-    "Fallecidos": 1
+    "Fallecidos": 3
   },
   {
     "Estado": "CHIHUAHUA",
@@ -25,7 +25,7 @@
   },
   {
     "Estado": "CIUDAD DE MÉXICO",
-    "Fallecidos": 49
+    "Fallecidos": 56
   },
   {
     "Estado": "COAHUILA",
@@ -49,7 +49,7 @@
   },
   {
     "Estado": "HIDALGO",
-    "Fallecidos": 8
+    "Fallecidos": 9
   },
   {
     "Estado": "JALISCO",
@@ -57,7 +57,7 @@
   },
   {
     "Estado": "MICHOACÁN",
-    "Fallecidos": 8
+    "Fallecidos": 9
   },
   {
     "Estado": "MORELOS",
@@ -65,7 +65,7 @@
   },
   {
     "Estado": "MÉXICO",
-    "Fallecidos": 19
+    "Fallecidos": 22
   },
   {
     "Estado": "NAYARIT",
@@ -77,11 +77,11 @@
   },
   {
     "Estado": "OAXACA",
-    "Fallecidos": 2
+    "Fallecidos": 3
   },
   {
     "Estado": "PUEBLA",
-    "Fallecidos": 18
+    "Fallecidos": 20
   },
   {
     "Estado": "QUERÉTARO",
@@ -89,7 +89,7 @@
   },
   {
     "Estado": "QUINTANA ROO",
-    "Fallecidos": 18
+    "Fallecidos": 19
   },
   {
     "Estado": "SAN LUIS POTOSÍ",
@@ -113,7 +113,7 @@
   },
   {
     "Estado": "TLAXCALA",
-    "Fallecidos": 1
+    "Fallecidos": 2
   },
   {
     "Estado": "VERACRUZ",
@@ -121,7 +121,7 @@
   },
   {
     "Estado": "YUCATÁN",
-    "Fallecidos": 4
+    "Fallecidos": 6
   },
   {
     "Estado": "ZACATECAS",
