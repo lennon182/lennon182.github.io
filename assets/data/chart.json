@@ -586,5 +586,12 @@
     "infectados": 5847,
     "recuperados": "",
     "muertes": 449
+  },
+  {
+    "Fecha": "2020-04-16",
+    "sospechosos": 12340,
+    "infectados": 6297,
+    "recuperados": "",
+    "muertes": 486
   }
 ]
