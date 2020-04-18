@@ -5,7 +5,7 @@
   },
   {
     "Estado": "BAJA CALIFORNIA",
-    "Fallecidos": 31
+    "Fallecidos": 33
   },
   {
     "Estado": "BAJA CALIFORNIA SUR",
@@ -21,11 +21,11 @@
   },
   {
     "Estado": "CHIHUAHUA",
-    "Fallecidos": 23
+    "Fallecidos": 26
   },
   {
     "Estado": "CIUDAD DE MÉXICO",
-    "Fallecidos": 110
+    "Fallecidos": 136
   },
   {
     "Estado": "COAHUILA",
@@ -33,7 +33,7 @@
   },
   {
     "Estado": "COLIMA",
-    "Fallecidos": 0
+    "Fallecidos": 2
   },
   {
     "Estado": "DURANGO",
@@ -41,23 +41,23 @@
   },
   {
     "Estado": "GUANAJUATO",
-    "Fallecidos": 6
+    "Fallecidos": 7
   },
   {
     "Estado": "GUERRERO",
-    "Fallecidos": 9
-  },
-  {
-    "Estado": "HIDALGO",
-    "Fallecidos": 12
-  },
-  {
-    "Estado": "JALISCO",
     "Fallecidos": 11
   },
   {
-    "Estado": "MICHOACÁN",
+    "Estado": "HIDALGO",
     "Fallecidos": 13
+  },
+  {
+    "Estado": "JALISCO",
+    "Fallecidos": 13
+  },
+  {
+    "Estado": "MICHOACÁN",
+    "Fallecidos": 14
   },
   {
     "Estado": "MORELOS",
@@ -65,7 +65,7 @@
   },
   {
     "Estado": "MÉXICO",
-    "Fallecidos": 46
+    "Fallecidos": 49
   },
   {
     "Estado": "NAYARIT",
@@ -81,15 +81,15 @@
   },
   {
     "Estado": "PUEBLA",
-    "Fallecidos": 32
+    "Fallecidos": 37
   },
   {
     "Estado": "QUERÉTARO",
-    "Fallecidos": 5
+    "Fallecidos": 6
   },
   {
     "Estado": "QUINTANA ROO",
-    "Fallecidos": 28
+    "Fallecidos": 31
   },
   {
     "Estado": "SAN LUIS POTOSÍ",
@@ -97,7 +97,7 @@
   },
   {
     "Estado": "SINALOA",
-    "Fallecidos": 40
+    "Fallecidos": 43
   },
   {
     "Estado": "SONORA",
@@ -105,11 +105,11 @@
   },
   {
     "Estado": "TABASCO",
-    "Fallecidos": 25
+    "Fallecidos": 27
   },
   {
     "Estado": "TAMAULIPAS",
-    "Fallecidos": 4
+    "Fallecidos": 5
   },
   {
     "Estado": "TLAXCALA",
@@ -117,11 +117,11 @@
   },
   {
     "Estado": "VERACRUZ",
-    "Fallecidos": 6
+    "Fallecidos": 7
   },
   {
     "Estado": "YUCATÁN",
-    "Fallecidos": 7
+    "Fallecidos": 8
   },
   {
     "Estado": "ZACATECAS",
