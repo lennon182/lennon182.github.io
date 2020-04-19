@@ -5,7 +5,7 @@
   },
   {
     "Estado": "BAJA CALIFORNIA",
-    "Fallecidos": 33
+    "Fallecidos": 68
   },
   {
     "Estado": "BAJA CALIFORNIA SUR",
@@ -21,15 +21,15 @@
   },
   {
     "Estado": "CHIHUAHUA",
-    "Fallecidos": 26
+    "Fallecidos": 31
   },
   {
     "Estado": "CIUDAD DE MÉXICO",
-    "Fallecidos": 136
+    "Fallecidos": 178
   },
   {
     "Estado": "COAHUILA",
-    "Fallecidos": 15
+    "Fallecidos": 18
   },
   {
     "Estado": "COLIMA",
@@ -41,7 +41,7 @@
   },
   {
     "Estado": "GUANAJUATO",
-    "Fallecidos": 7
+    "Fallecidos": 9
   },
   {
     "Estado": "GUERRERO",
@@ -57,15 +57,15 @@
   },
   {
     "Estado": "MICHOACÁN",
-    "Fallecidos": 14
+    "Fallecidos": 16
   },
   {
     "Estado": "MORELOS",
-    "Fallecidos": 10
+    "Fallecidos": 11
   },
   {
     "Estado": "MÉXICO",
-    "Fallecidos": 49
+    "Fallecidos": 52
   },
   {
     "Estado": "NAYARIT",
@@ -73,15 +73,15 @@
   },
   {
     "Estado": "NUEVO LEÓN",
-    "Fallecidos": 5
+    "Fallecidos": 6
   },
   {
     "Estado": "OAXACA",
-    "Fallecidos": 5
+    "Fallecidos": 6
   },
   {
     "Estado": "PUEBLA",
-    "Fallecidos": 37
+    "Fallecidos": 40
   },
   {
     "Estado": "QUERÉTARO",
@@ -97,7 +97,7 @@
   },
   {
     "Estado": "SINALOA",
-    "Fallecidos": 43
+    "Fallecidos": 45
   },
   {
     "Estado": "SONORA",
@@ -105,7 +105,7 @@
   },
   {
     "Estado": "TABASCO",
-    "Fallecidos": 27
+    "Fallecidos": 28
   },
   {
     "Estado": "TAMAULIPAS",
@@ -117,11 +117,11 @@
   },
   {
     "Estado": "VERACRUZ",
-    "Fallecidos": 7
+    "Fallecidos": 8
   },
   {
     "Estado": "YUCATÁN",
-    "Fallecidos": 8
+    "Fallecidos": 10
   },
   {
     "Estado": "ZACATECAS",
