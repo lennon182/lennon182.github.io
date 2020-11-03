@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A simple cart app made in typeScript" />
+    <title>Type Script Store</title>
+    <link rel="stylesheet" href="./css/app.css" />
+    <script
+      type="module"
+      prefer
+      src="https://unpkg.com/ionicons@5.2.3/dist/ionicons/ionicons.esm.js"
+    ></script>
+
+    <meta name="twitter:card" content="summary" />
+    <meta property="og:url" content="https://lennon182.github.io/" />
+    <meta
+      property="og:title"
+      content="TypeScript Simple Shopping Cart | E. Iván Mtz. Leal."
+    />
+    <meta
+      property="og:description"
+      content="This is a simple App made in Typescript, HTML5 and Css. It Simulate a Store where you can buy comics through a Simple Shopping Cart."
+    />
+    <meta
+      property="og:image"
+      content="https://lennon182.github.io/assets/images/typescriptsimpleshoppingcart.png"
+    />
+  </head>
+  <body>
+    <!-- SECOND HEADER -->
+    <header class="secondHeader">
+      <section class="authorHeader">
+        <ion-icon class="dev" name="code-slash-outline" size="small"></ion-icon>
+        <span class="social-name"> E Ivan Mtz Leal </span>
+      </section>
+
+      <section class="socials">
+        <ion-icon class="linkedin" name="logo-linkedin" size="small"></ion-icon>
+        <span class="social-name">
+          <a
+            href="https://www.linkedin.com/in/edgar-iv%C3%A1n-mart%C3%ADnez-leal-382104b3/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            LinkDin
+          </a>
+        </span>
+        <ion-icon class="facebook" name="logo-facebook" size="small"></ion-icon>
+        <span class="social-name">
+          <a
+            href="https://www.facebook.com/lennon182"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            FaceBook
+          </a>
+        </span>
+        <ion-icon class="twitter" name="logo-twitter" size="small"></ion-icon>
+        <span class="social-name">
+          <a
+            href="https://twitter.com/lennon182_"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Twitter
+          </a>
+        </span>
+      </section>
+
+      <section class="repository">
+        <ion-icon class="github" name="logo-github" size="small"></ion-icon>
+        <span class="social-name"> GitRepository </span>
+      </section>
+    </header>
+    <!-- MAIN HEADER -->
+    <header class="mainHeader">
+      <div class="pageTitle">TypeScriptStore</div>
+      <div>
+        <span class="pageTitle">Total products:</span>
+        <span class="cartCounter"></span>
+      </div>
+      <div>
+        <span class="pageTitle">Total to pay:</span>
+        <span class="totalToPayHeader pageTitle"></span>
+      </div>
+    </header>
+    <!-- MAIN -->
+    <main>
+      <!-- PRODUCTS -->
+      <section class="seccionData"></section>
+      <!-- CARD -->
+      <section class="seccionCardCart">
+        <div class="cardCart">
+          <div class="cartHeader">Products in your Cart</div>
+          <div class="itemContent"></div>
+          <div class="totalSection"></div>
+          <div class="checkoutSection"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <section>
+        images from
+        <a
+          href="https://www.dccomics.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="dc"
+        >
+          DC Comics
+        </a>
+      </section>
+    </footer>
+
+    <script type="module" src="js/app.js"></script>
+  </body>
+</html>

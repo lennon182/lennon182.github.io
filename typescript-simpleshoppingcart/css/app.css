@@ -1,0 +1,388 @@
+:root {
+  font-size: 16px;
+  --colorHeaders: darkslateblue;
+  --backGroundPage: #252525;
+  --whiteColor: #ffffff;
+}
+
+* {
+  font-family: Fira Code;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: var(--backGroundPage);
+}
+
+a {
+  text-decoration: none;
+  color: darkslateblue;
+}
+
+.mainHeader {
+  background-color: var(--colorHeaders);
+  padding: 1rem 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mainHeader .pageTitle {
+  color: white;
+  font-size: 1.2rem;
+}
+
+.mainHeader .cartCounter {
+  background-color: white;
+  color: var(--backGroundPage);
+  font-size: 1.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+}
+
+.mainHeader .totalToPayHeader {
+  background-color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  color: darkslateblue;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.secondHeader {
+  background-color: #f0f0f0;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.socials,
+.authorHeader,
+.repository {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: center;
+}
+
+.dev {
+  color: darkslateblue;
+}
+.facebook {
+  color: #3b5998;
+}
+.linkedin {
+  color: #0077b5;
+}
+
+.twitter {
+  color: #1da1f2;
+}
+.github {
+  color: #4078c0;
+}
+
+.social-name {
+  padding: 0 1.5rem 0 0.2rem;
+}
+
+main {
+  /* width: 97%; */
+  padding: 0 0.25rem;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  flex-basis: 97%;
+}
+
+.seccionData {
+  /* width: 70%; */
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  flex-basis: 70%;
+  margin: 1rem 0;
+}
+
+/* CARDS */
+.cardData {
+  margin: 0 0 1rem 0;
+  /* width: 49%; */
+  flex-basis: 49%;
+}
+/* CARDS */
+
+.cardItemHeader {
+  border-radius: 0.6rem 0.6rem 0 0;
+  background-color: var(--colorHeaders);
+  padding: 1rem;
+  margin: 0;
+  font-size: 1.2rem;
+  text-align: center;
+  color: white;
+}
+
+.itemHader .title {
+  font-size: 0.8rem;
+  text-align: left !important;
+}
+.cardItem {
+  background-color: var(--whiteColor);
+  border-radius: 0 0 0.6rem 0.6rem;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cardItem:hover {
+  background-color: var(--colorHeaders);
+  color: white;
+}
+
+.cardItemCover {
+  /* width: 50%; */
+  flex-basis: 50%;
+}
+.cardItemCover img {
+  width: 100%;
+  max-width: 100%;
+  /* min-width: 120px; */
+  border-radius: 1rem;
+  box-shadow: 5px 5px 10px rgba(51, 19, 19, 0.8);
+}
+.cardItemCover img:hover {
+  filter: sepia(70%);
+  transform: scale(1.2);
+  transform: rotateZ(10deg);
+}
+
+.cardItemContent {
+  /* width: 50%; */
+  flex-basis: 50%;
+  text-align: right;
+  /* margin: 1rem; */
+}
+.cardItemContent p {
+  margin: 0.5rem 1rem;
+}
+
+.sku {
+  font-size: 0.7rem;
+}
+
+.cardItemContent .title {
+  font-weight: 600;
+}
+.cardItemContent button {
+  margin: 2rem 1rem;
+  padding: 0.5rem;
+  color: var(--whiteColor);
+  background-color: red;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+}
+
+.cardItemContent button:hover {
+  color: var(--whiteColor);
+  background-color: var(--backGroundPage);
+  cursor: pointer;
+}
+
+.cardItemContent button:active {
+  color: var(--whiteColor);
+  background-color: red;
+}
+
+/* -------------[ CART SECTION ]------------ */
+
+.seccionCardCart {
+  /* width: 29%; */
+  flex-basis: 29%;
+  background-color: var(--whiteColor);
+  margin: 1rem 0;
+  border-radius: 0.6rem;
+}
+.cartHeader {
+  border-radius: 0.6rem 0.6rem 0 0;
+  background-color: var(--colorHeaders);
+  padding: 1rem;
+  margin: 0;
+  color: white;
+}
+
+.itemContent {
+  background-color: rgb(153, 153, 153, 0.3);
+}
+
+.itemHader {
+  background-color: rgb(153, 153, 153, 0.3);
+  margin: 0;
+  text-align: right;
+  padding: 0.7rem;
+}
+
+.itemHader .delete-btn {
+  background-color: red;
+  padding: 0.5rem 0.7rem;
+  border-radius: 100%;
+  color: white;
+  font-size: 0.7rem;
+}
+
+.delete-btn:hover {
+  background-color: var(--backGroundPage);
+  color: white;
+  cursor: pointer;
+}
+
+.cartItems {
+  padding: 1rem 0.5rem;
+  text-align: right;
+}
+
+.cartItems .title {
+  font-weight: 600;
+}
+
+.detailPay {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+}
+
+.totalSection {
+  background-color: red;
+  color: white;
+  padding: 1rem;
+  text-align: right;
+  font-size: 1.2rem;
+  font-weight: 600;
+  border-radius: 0 0 0.6rem 0.6rem;
+}
+
+.checkoutSection {
+  background-color: rgb(153, 153, 153, 0.3);
+  text-align: center;
+  margin: 0 auto;
+}
+
+.checkoutSection button {
+  margin: 1rem;
+  padding: 0.5rem 2rem;
+  color: var(--whiteColor);
+  background-color: green;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.checkoutSection button:hover {
+  background-color: var(--backGroundPage);
+  color: white;
+  cursor: pointer;
+}
+.noItemsCart {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+/* FOOTER */
+footer {
+  background-color: var(--colorHeaders);
+  color: white;
+  padding: 1rem 5rem;
+  text-align: center;
+}
+
+.dc {
+  color: white;
+}
+
+/* MEDIAS */
+@media (min-width: 701px) and (max-width: 900px) {
+  .mainHeader {
+    padding: 1rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .mainHeader .pageTitle {
+    color: white;
+    font-size: 1rem;
+  }
+
+  .mainHeader .cartCounter {
+    background-color: white;
+    color: var(--backGroundPage);
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+
+  .mainHeader .totalToPayHeader {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    color: darkslateblue;
+    font-weight: 600;
+    font-size: 1rem;
+  }
+  .cardData {
+    /* width: 100%; */
+    flex-basis: 100%;
+  }
+}
+
+@media (max-width: 700px) {
+  .secondHeader {
+    flex-direction: column;
+  }
+  .socials,
+  .authorHeader,
+  .repository {
+    margin-bottom: 0.5rem;
+  }
+
+  .mainHeader {
+    display: none;
+  }
+
+  main {
+    /* width: 100% !important; */
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: column-reverse;
+    flex-basis: 100% !important;
+    margin: 0;
+    padding: 0;
+  }
+  .seccionData {
+    /* width: 100%; */
+    flex-basis: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .cardData {
+    /* width: 100%; */
+    flex-basis: 100%;
+    margin: 1rem 0;
+    padding: 0;
+  }
+
+  .seccionCardCart {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+}
